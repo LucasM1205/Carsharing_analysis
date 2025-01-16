@@ -1,0 +1,30 @@
+Analyse der vehicle_type_id-Werte:
+
+Gefundene Werte: 25
+
+Wert - Häufigkeit:
+DER:VehicleType:vw_id4_pro_150kw: 32746
+DER:VehicleType:vw_id3_pro_107kw: 88675
+DER:VehicleType:vw_eup: 22816
+DER:VehicleType:vw_id3: 544065
+DER:VehicleType:vw_id4: 3748
+DER:VehicleType:vw_id3_pro: 9408
+DER:VehicleType:seat_cupra_born: 33398
+DER:VehicleType:seat_cupra_born_150kw: 22261
+DER:VehicleType:vw_egolf: 3434
+DER:VehicleType:vw_id3_pro_150kw: 25892
+DER:VehicleType:vw_id4_pro_150_kw: 1691
+DER:VehicleType:vw_id3_pure_110kw: 11909
+DER:VehicleType:vw_id4_pro: 5946
+DER:VehicleType:vw_id3_pure_performance: 489
+DER:VehicleType:vw_id3_pro_s: 40756
+DER:VehicleType:vw_id3_pro_s_150kw: 2831
+DER:VehicleType:mg_mg5_electric_standard_range: 68207
+DER:VehicleType:mg_mg5: 77367
+DER:VehicleType:renault_megan_etech: 18439
+DER:VehicleType:renault_megane_etech_ev40_130hp: 23465
+DER:VehicleType:renault_megane_etech_ev60_130hp: 10792
+DER:VehicleType:renault_megane_etech: 6798
+DER:VehicleType:vw_: 1
+DER:VehicleType:renault_megane_etech_ev60_220hp: 267
+DER:VehicleType:mg_mg5_electric_long_range: 887

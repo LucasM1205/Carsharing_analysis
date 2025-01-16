@@ -1,0 +1,4689 @@
+{
+    "last_updated": 1736849419,
+    "ttl": 60,
+    "version": "2.3",
+    "data": {
+        "stations": [
+            {
+                "station_id": "DER:Station:5a530bb20d1dff00063bd779",
+                "name": "Calw: Parkhaus ZOB",
+                "lat": 48.714709,
+                "lon": 8.741309,
+                "address": "Bischofstraße 10",
+                "post_code": "75365",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5a966f70af71190006b85c83",
+                "name": "Althengstett: Festhalle",
+                "lat": 48.725325,
+                "lon": 8.793879,
+                "address": "Jahnstraße 6",
+                "post_code": "75382",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5a967008af71190006b85c9b",
+                "name": "Althengstett-Ottenbronn: Marktplatz",
+                "lat": 48.741358,
+                "lon": 8.753908,
+                "address": "Hirsauer Straße 15",
+                "post_code": "75382",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5aaa26142727580006abc700",
+                "name": "Bad Herrenalb: P3",
+                "lat": 48.800006,
+                "lon": 8.440947,
+                "address": "Kurpromenade 38",
+                "post_code": "76332",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5aaa26c82727580006abc71b",
+                "name": "Calw: ENCW Wasserkraftwerk ",
+                "lat": 48.713049,
+                "lon": 8.741878,
+                "address": "Bahnhofstraße  4-6",
+                "post_code": "75365",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5aaa28012727580006abc74d",
+                "name": "Stammheim: Rathaus",
+                "lat": 48.695827,
+                "lon": 8.771816,
+                "address": "Hauptstraße 24",
+                "post_code": "75365",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5aaa28672727580006abc766",
+                "name": "Hirsau: Finanzamt",
+                "lat": 48.736873,
+                "lon": 8.731647,
+                "address": "Klosterhof 1",
+                "post_code": "75365",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5aaa29da2727580006abc798",
+                "name": "Schömberg: Sparkasse",
+                "lat": 48.787228,
+                "lon": 8.643486,
+                "address": "Lindenstraße 16",
+                "post_code": "75328",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5aaf598a219070000690dfd1",
+                "name": "Altburg: Rathaus",
+                "lat": 48.724168,
+                "lon": 8.700222,
+                "address": "Speßhardter Straße 1",
+                "post_code": "75365",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5abb49420fb20500063c4eb3",
+                "name": "Nagold: Sparkasse (Iselshauser Tal)",
+                "lat": 48.545037,
+                "lon": 8.728382,
+                "address": "Haiterbacher Straße  66/1",
+                "post_code": "72202 ",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5abb4a330fb20500063c4ed6",
+                "name": "Simmozheim: Gemeindehaus",
+                "lat": 48.752373,
+                "lon": 8.812647,
+                "address": "Hauptstraße 1",
+                "post_code": "75397",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5afe7a9a3e095b0006cd51a6",
+                "name": "Wimberg: Edeka",
+                "lat": 48.714743,
+                "lon": 8.72079,
+                "address": "Otto-Göhner-Straße 28",
+                "post_code": "75365",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5b45ffef39fe520005b69c35",
+                "name": "Höfen: Hotel Ochsen",
+                "lat": 48.799702,
+                "lon": 8.582415,
+                "address": "Bahnhofstraße 4",
+                "post_code": "75339",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5b517c8a0ab1020005cf1c55",
+                "name": "Oberreichenbach-Würzbach: Schule",
+                "lat": 48.722377,
+                "lon": 8.62877,
+                "address": "Calwer Straße 27",
+                "post_code": "75394",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5b61d2701be0e3000551e51c",
+                "name": "Bad Wildbad: Technisches Rathaus",
+                "lat": 48.752722,
+                "lon": 8.550105,
+                "address": "Wilhelmstraße 50",
+                "post_code": "75334",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5b6d744347ac7d0005f5c5c9",
+                "name": "Bad Wildbad: Stadtwerke",
+                "lat": 48.7564,
+                "lon": 8.550736,
+                "address": "Ladestraße 5",
+                "post_code": "75323",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5b9a24c258ffda0005483a03",
+                "name": "Neubulach: Tankstelle Schwenker",
+                "lat": 48.666445,
+                "lon": 8.686823,
+                "address": "Calwerstraße 62",
+                "post_code": "75387",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5ba39ea9e16d68000549f334",
+                "name": "Haiterbach: Stadtverwaltung",
+                "lat": 48.524179,
+                "lon": 8.649724,
+                "address": "Marktplatz 5",
+                "post_code": "72221",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5bc4857af6e87e000598d4f7",
+                "name": "Ostelsheim: Gaststätte Rössle",
+                "lat": 48.727222,
+                "lon": 8.851316,
+                "address": "Calwerstr. 1-5",
+                "post_code": "75395",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5bc581c42c8d0f0005cc911b",
+                "name": "Bad Teinach: Stadtverwaltung",
+                "lat": 48.688443,
+                "lon": 8.689015,
+                "address": "Untere Talstraße 12",
+                "post_code": "75385",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5bd2e8e5180ce400059ecd55",
+                "name": "Tiefenbronn: Rathaus",
+                "lat": 48.824049,
+                "lon": 8.802502,
+                "address": "Gemmingenstraße 1",
+                "post_code": "75233",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5bffcc000708ea00053245a8",
+                "name": "Ebhausen: Postplätzle",
+                "lat": 48.584978,
+                "lon": 8.676244,
+                "address": "Nagolder Straße  24",
+                "post_code": "72224",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5c0e48cd92e6c10005d80dd4",
+                "name": "Calw: deer (Stammheimer Feld)",
+                "lat": 48.705138,
+                "lon": 8.756433,
+                "address": "Rudolf-Diesel-Straße 8",
+                "post_code": "75365",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5c0f68f292e6c10005d8a030",
+                "name": "Gechingen: Brunnenstraße",
+                "lat": 48.694288,
+                "lon": 8.829359,
+                "address": "Brunnenstraße 8",
+                "post_code": "75391",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5c0f695192e6c10005d8a037",
+                "name": "Bad Liebenzell: Bahnhofstraße",
+                "lat": 48.772585,
+                "lon": 8.734212,
+                "address": "Bahnhofstraße 15",
+                "post_code": "75378",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5c3dea96dffb310005f46ef7",
+                "name": "Sachsenheim: Bahnhof",
+                "lat": 48.96162,
+                "lon": 9.064904,
+                "address": "Bahnhofstraße 14",
+                "post_code": "74343",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5c7941381cee250005cca24d",
+                "name": "Calmbach: Bahnhof",
+                "lat": 48.776915,
+                "lon": 8.571892,
+                "address": "Bahnhofstraße 10",
+                "post_code": "75323 ",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5c8645bccc42e80005e0e6ba",
+                "name": "Egenhausen: Gemeindeverwaltung",
+                "lat": 48.564715,
+                "lon": 8.618478,
+                "address": "Winterstraße 2",
+                "post_code": "72227",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5c8a4b09ab6c850005130e66",
+                "name": "Waiblingen: Bahnhof",
+                "lat": 48.82633,
+                "lon": 9.30073,
+                "address": "Bahnhof 1",
+                "post_code": "71332",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5ca44890568e0300055c6365",
+                "name": "Calw: Sparkasse",
+                "lat": 48.714363,
+                "lon": 8.740549,
+                "address": "Marktbrücke 1",
+                "post_code": "75365",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5cab398e1130e600051de753",
+                "name": "Enzklösterle: Mehrzweckhalle",
+                "lat": 48.670871,
+                "lon": 8.475795,
+                "address": "Wildbaderstraße 36",
+                "post_code": "75337",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5cb73c5c9b2393000540dc70",
+                "name": "Linkenheim-Hochstetten: Rathaus",
+                "lat": 49.123289,
+                "lon": 8.408608,
+                "address": "Kaiserstraße 2",
+                "post_code": "76351",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5cf544e313e5040005ed58a4",
+                "name": "Neuweiler: Rathaus",
+                "lat": 48.658357,
+                "lon": 8.598416,
+                "address": "Marktstraße 7",
+                "post_code": "75389",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5d35c63916c3110005af2ece",
+                "name": "Eberdingen-Hochdorf: Keltenmuseum",
+                "lat": 48.889042,
+                "lon": 9.002372,
+                "address": "Keltenstraße 2",
+                "post_code": "71735",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5d36c8054d21ea0005c07b2f",
+                "name": "Brackenheim: Rathaus",
+                "lat": 49.078741,
+                "lon": 9.065538,
+                "address": "Kirchstraße 1",
+                "post_code": "74336",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5d515c1ed219c0000623f056",
+                "name": "Wimberg: Ökosiedlung",
+                "lat": 48.71056,
+                "lon": 8.72166,
+                "address": "Herrengarten 29",
+                "post_code": "75365",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5d64d214d83dd5000655c6f2",
+                "name": "Vaihingen an der Enz: Kaufhaus Säman",
+                "lat": 48.930117,
+                "lon": 8.958857,
+                "address": "Stuttgarter Straße 46-52",
+                "post_code": "71665",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5d6e72cb89dcc80006fdd518",
+                "name": "Göppingen: Bahnhof",
+                "lat": 48.700441,
+                "lon": 9.652545,
+                "address": "Bahnhofstraße 1",
+                "post_code": "73033",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5d6f959e89dcc80006fde771",
+                "name": "Weil der Stadt-Merklingen: Rathaus",
+                "lat": 48.769109,
+                "lon": 8.851804,
+                "address": "Kirchplatz 2",
+                "post_code": "71263",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5d6f97db89dcc80006fde7a5",
+                "name": "Schwieberdingen: Kaiserstein",
+                "lat": 48.872999,
+                "lon": 9.084614,
+                "address": "Stuttgarter Straße 94",
+                "post_code": "71701",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5d920a3428b37d0006b5aa41",
+                "name": "Walldürn: Parkhaus ",
+                "lat": 49.583227,
+                "lon": 9.366795,
+                "address": "Burgstraße 3",
+                "post_code": "74731",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5dc98f10a0919dbeda392171",
+                "name": "Weil der Stadt: Carlo-Schmid-Platz",
+                "lat": 48.749413,
+                "lon": 8.873119,
+                "address": "Hermann-Schnaufer-Straße 24",
+                "post_code": "71263",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5de61d970a4e433a2eba2a95",
+                "name": "Zaberfeld: Michelbacherstraße",
+                "lat": 49.059092,
+                "lon": 8.926855,
+                "address": "Michelbacherstraße 5",
+                "post_code": "74374",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5df229e95ec28696a3a0db62",
+                "name": "Althengstett-Neuhengstett: Sporthalle",
+                "lat": 48.737835,
+                "lon": 8.776141,
+                "address": "Am Schlaichdorn 51",
+                "post_code": "75382",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5df9dffd5ec2868148a16d6d",
+                "name": "Althengstett: WEG Neue Höfe",
+                "lat": 48.72532,
+                "lon": 8.797909,
+                "address": "Bahnhofstraße 26",
+                "post_code": "75382",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5e0e0576af362662f4d60a92",
+                "name": "Weissach: Ärztehaus",
+                "lat": 48.837556,
+                "lon": 8.913689,
+                "address": "Weissacher Straße  38",
+                "post_code": "71287",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5e16de792e2d59dff528d034",
+                "name": "Kuppenheim: Festhalle",
+                "lat": 48.829578,
+                "lon": 8.267121,
+                "address": "Badstraße 2",
+                "post_code": "76456",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5e28407f3c3413000c68ad14",
+                "name": "Aidlingen: Rathaus ",
+                "lat": 48.678328,
+                "lon": 8.897132,
+                "address": "Hauptstr. 15",
+                "post_code": "71134",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5e81ea96ba2eb50007d7811d",
+                "name": "Geislingen an der Steige: Stadtverwaltung ",
+                "lat": 48.615548,
+                "lon": 9.843549,
+                "address": "Schlossgasse 7",
+                "post_code": "73312",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5e96a38e333edf00073e5812",
+                "name": "Haiterbach: Burgschule",
+                "lat": 48.524612,
+                "lon": 8.645825,
+                "address": "Hohenrainstraße 34",
+                "post_code": "72221",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5ee731dbe353ea18fb362f9a",
+                "name": "Weil der Stadt: Bahnhof",
+                "lat": 48.756324,
+                "lon": 8.873396,
+                "address": "Eisenbahnstr 20",
+                "post_code": "71263",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5ee733e8aa5a1932797d14eb",
+                "name": "Neubulach: Badgasse",
+                "lat": 48.660987,
+                "lon": 8.6953,
+                "address": "Badgasse 14",
+                "post_code": "75387",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5ee735a4e353ea08b7362fe1",
+                "name": "Elchesheim-Illingen: Rathaus",
+                "lat": 48.93037,
+                "lon": 8.20954,
+                "address": "Rathausplatz 12",
+                "post_code": "76477",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5eeb5a9ee353ea512f367cb0",
+                "name": "Loffenau: Kirchhaldenpfad",
+                "lat": 48.774117,
+                "lon": 8.387908,
+                "address": "Kirchhaldenpfad 4",
+                "post_code": "76597",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5ef443db0e76d27bdc274f32",
+                "name": "Böblingen: Motorworld",
+                "lat": 48.690581,
+                "lon": 9.003732,
+                "address": "Graf-Zeppelin-Platz 1",
+                "post_code": "71034",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5f058864867667371609d665",
+                "name": "Oberreichenbach-Igelsloch: Rathaus",
+                "lat": 48.751653,
+                "lon": 8.663486,
+                "address": "Rathausgasse 1",
+                "post_code": "75394",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5f0588a58676674e1509d66a",
+                "name": "Oberreichenbach-Oberkollbach: Gemeindehaus",
+                "lat": 48.746459,
+                "lon": 8.680223,
+                "address": "Alte Badstraße 90",
+                "post_code": "75394",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5f1fc8ff8dc3e61dd369edd6",
+                "name": "Ötigheim: Bahnhof",
+                "lat": 48.888488,
+                "lon": 8.240907,
+                "address": "Industriestraße 42",
+                "post_code": "76470",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5f4e3d0ecd307f7a7fbe1357",
+                "name": "Stuttgart: Flughafen (Parkhaus P14, Ebene 3)",
+                "lat": 48.691892,
+                "lon": 9.197868,
+                "address": "Flughafenstraße 56",
+                "post_code": "70629",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:5fd0d9438475d35743b2427d",
+                "name": "Bietigheim(Baden): Bahnhof",
+                "lat": 48.908706,
+                "lon": 8.25636,
+                "address": "Zufuhrstraße 21",
+                "post_code": "76467",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:60254bfb4f938e7acffea35e",
+                "name": "Dobel: Kurhaus",
+                "lat": 48.79668,
+                "lon": 8.4918,
+                "address": "Neue Herrenalber Str. 11",
+                "post_code": "75335",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:602553cc67fffe6029a44c4d",
+                "name": "Gammelshausen: Rathaus",
+                "lat": 48.64176,
+                "lon": 9.65106,
+                "address": "Rosenstr. 1",
+                "post_code": "73108",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:604f0f02d2325e44ceac3c49",
+                "name": "Niefern-Öschelbronn: Bahnhof",
+                "lat": 48.92023,
+                "lon": 8.77,
+                "address": "Bahnhofstraße 40",
+                "post_code": "75223",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:604f0fd344d15d8f77f7d4a3",
+                "name": "Niefern-Öschelbronn: Scheuernstraße ",
+                "lat": 48.90556,
+                "lon": 8.81375,
+                "address": "Pfarrstraße 0",
+                "post_code": "75223 ",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:60506b6fd2325e59e9ac4e5d",
+                "name": "Friolzheim: Rathaus",
+                "lat": 48.835851,
+                "lon": 8.834453,
+                "address": "Rathausstraße 7",
+                "post_code": "71292",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:607565bc515cad02895e7582",
+                "name": "Göppingen: Landratsamt",
+                "lat": 48.707242,
+                "lon": 9.646504,
+                "address": "Eberhardtstraße 20",
+                "post_code": "73033",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6087ed5627683d969b65b4de",
+                "name": "Baden-Baden: Airpark",
+                "lat": 48.7783,
+                "lon": 8.0888,
+                "address": "Halifax Avenue 420",
+                "post_code": "77836",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6087ee2827683d1aee65b4fc",
+                "name": "Eberdingen: Rathaus",
+                "lat": 48.87688,
+                "lon": 8.964,
+                "address": "Stuttgarter Str. 51",
+                "post_code": " 71735",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6087ee8c27683df20165b4ff",
+                "name": "Eberdingen-Nussdorf: Friedhof",
+                "lat": 48.8911,
+                "lon": 8.9358,
+                "address": "Mönsheimer Weg 7",
+                "post_code": "71735",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:608b1a10d47e75498ee3a1b9",
+                "name": "Stuttgart: Hofdienergarage Schellingstraße",
+                "lat": 48.7806,
+                "lon": 9.17467,
+                "address": "Schellingstraße  25b",
+                "post_code": "70174",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:609e410787a612b170aea60e",
+                "name": "Schömberg: Wellenbad",
+                "lat": 48.7893112,
+                "lon": 8.642074,
+                "address": "Bergstraße  44A",
+                "post_code": " 75328",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:60c09b307a2fb74b84bcf76a",
+                "name": "Burgstetten: Bahnhof",
+                "lat": 48.9290405,
+                "lon": 9.3711031,
+                "address": "Neue Str 2",
+                "post_code": "71576",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:60f55d28a2cddd8297f1b8e9",
+                "name": "Murrhardt: Bahnhof ",
+                "lat": 48.982005,
+                "lon": 9.578664,
+                "address": "Bahnhofstraße  18",
+                "post_code": "71540",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:610279be63acaeeba51761a1",
+                "name": "Jettingen: Willy Dieterle Halle",
+                "lat": 48.57009,
+                "lon": 8.782078,
+                "address": "Heubergring 1",
+                "post_code": "71131",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6109223b63acae48b617e313",
+                "name": "Neulußheim: Gemeindeverwaltung",
+                "lat": 49.294032,
+                "lon": 8.523663,
+                "address": "Kirchenstraße 1",
+                "post_code": "68809 ",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6112839ebc08e2918e4b5a83",
+                "name": "Deggingen: Gemeindeverwaltung",
+                "lat": 48.59770584106445,
+                "lon": 9.720880508422852,
+                "address": "Bahnhofstr. 9",
+                "post_code": "73326",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:612613543a3ed01401b22745",
+                "name": "Murr: Rathaus",
+                "lat": 48.96166,
+                "lon": 9.260086,
+                "address": "Mühlgasse  1",
+                "post_code": "71711",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:61432e01993df74abf963808",
+                "name": "Hildrizhausen: Kirchgasse",
+                "lat": 48.625351,
+                "lon": 8.967268,
+                "address": "Kirchgasse 1",
+                "post_code": "71157",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:61711271d325a768d89462d1",
+                "name": "Altdorf: Friedhof",
+                "lat": 48.63104248046875,
+                "lon": 8.991050720214844,
+                "address": "Seeweg 4",
+                "post_code": "71155",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:618107bc7dfbb6e7bc8ba96c",
+                "name": "Lauterstein: Gemeindeverwaltung ",
+                "lat": 48.7102,
+                "lon": 9.868383,
+                "address": "Hauptstraße  75",
+                "post_code": "73111",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6184d812dc01706363170acf",
+                "name": "Gingen: Gemeindeverwaltung",
+                "lat": 48.658752,
+                "lon": 9.782206,
+                "address": "Bahnhofstraße 30",
+                "post_code": "73333",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6188d7e27dfbb667429ba30d",
+                "name": "Donzdorf-Winzingen: Gmünder Straße",
+                "lat": 48.711934,
+                "lon": 9.820619,
+                "address": "Gmünder Straße  21",
+                "post_code": "73072",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:618e8f137dfbb67a34a763c6",
+                "name": "München: Motorworld",
+                "lat": 48.195156,
+                "lon": 11.608098,
+                "address": "Am Ausbesserungswerk 8",
+                "post_code": "80939 ",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:61a62782cfbe1df5975ef230",
+                "name": "Denkendorf: Sporthalle ",
+                "lat": 48.700269,
+                "lon": 9.326725,
+                "address": "Lenaustraße 3",
+                "post_code": "73770",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:61b749b73facab6cef4e784a",
+                "name": "Haiterbach: Festhalle",
+                "lat": 48.5262853,
+                "lon": 8.6550796,
+                "address": "Alte Nagolder Straße 8",
+                "post_code": "72221",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:61eabcff280fdff2015b7d80",
+                "name": "Deckenpfronn: Marktplatz",
+                "lat": 48.651574,
+                "lon": 8.823151,
+                "address": "Marktpl.  6",
+                "post_code": "75392",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:61f014fe805f606a0c4da811",
+                "name": "Bad Boll: Hauptstraße",
+                "lat": 48.639717,
+                "lon": 9.616467,
+                "address": "Hauptstr. 94",
+                "post_code": "73087",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:61f150cb280fdff2017dc149",
+                "name": "Ottersweier: Eisenbahnstraße",
+                "lat": 48.668553,
+                "lon": 8.110643,
+                "address": "Eisenbahnstraße  2",
+                "post_code": "77833 ",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:61f16118805f606a0c54b233",
+                "name": "Salach: Bahnhof",
+                "lat": 48.689685,
+                "lon": 9.737173,
+                "address": "Weberstr. 6",
+                "post_code": "73084 ",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:61f16292805f606a0c54bf2b",
+                "name": "Uhingen: Rathaus",
+                "lat": 48.704219,
+                "lon": 9.584957,
+                "address": "Sparwieser Str. 4",
+                "post_code": "73066",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:61f3f353a4bfc1979a357b32",
+                "name": "Hattenhofen: Grundschule",
+                "lat": 48.667442,
+                "lon": 9.572298,
+                "address": "Schulgasse 2",
+                "post_code": "73110",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:61fbc99d229fa07cdf392347",
+                "name": "Ebersbach a.d.F.: Bahnhof ",
+                "lat": 48.71581,
+                "lon": 9.5259,
+                "address": "Bahnhofstraße  19",
+                "post_code": "73061",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:61fbca25229fa07cdf392990",
+                "name": "Donzdorf-Reichenbach: Querweg",
+                "lat": 48.708553,
+                "lon": 9.795423,
+                "address": "Querweg  15",
+                "post_code": "73072",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:61fbf975229fa07cdf3adb05",
+                "name": "Eislingen/Fils: Kronenplatz",
+                "lat": 48.694848,
+                "lon": 9.704364,
+                "address": "Kronenplatz  10",
+                "post_code": "73054",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:620f9febfa22dc668d69277c",
+                "name": "Geislingen an der Steige: Albwerk",
+                "lat": 48.624956,
+                "lon": 9.836082,
+                "address": "Eybstraße 98",
+                "post_code": "73312",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6214b403fa22dc668d85fb56",
+                "name": "Hohenstadt: Rathaus",
+                "lat": 48.545310974121094,
+                "lon": 9.662567138671875,
+                "address": "Schulstr. 9",
+                "post_code": "73345",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:621f39c16f4065ed913db369",
+                "name": "Ottenbach: Rathaus",
+                "lat": 48.734964,
+                "lon": 9.747991,
+                "address": "Hauptstraße 4",
+                "post_code": "73113",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:62207aa6bd42b75726c5bcef",
+                "name": "Linkenheim-Hochstetten: Tennisanlage",
+                "lat": 49.140696,
+                "lon": 8.40907,
+                "address": "Am Nebenbruch 5",
+                "post_code": "76351",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:62207d4fbd42b75726c5e07d",
+                "name": "Linkenheim-Hochstetten: Blankenlocher Straße",
+                "lat": 49.119452,
+                "lon": 8.410005,
+                "address": "Blankenlocher Str. 3",
+                "post_code": "76351",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:62418238f7f4959d4b68f2fa",
+                "name": "Wiesensteig: Schlossparkplatz",
+                "lat": 48.565138,
+                "lon": 9.628977,
+                "address": "Sommerbergstr. 56",
+                "post_code": "73349",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:624ec5cbcb9a8226db57f41f",
+                "name": "Magstadt: Marktplatz",
+                "lat": 48.742305,
+                "lon": 8.964577,
+                "address": " Alte Stuttgarter Str. 4",
+                "post_code": "71106",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:62556cd4a910d0aced870fee",
+                "name": "Wäschenbeuren: Marktplatz",
+                "lat": 48.759258,
+                "lon": 9.685032,
+                "address": "Hockengasse 1",
+                "post_code": "73116",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:62556e47cb9a8226db836ac4",
+                "name": "Kieselbronn: Raiffeisenbank",
+                "lat": 48.93488,
+                "lon": 8.749911,
+                "address": "Friedenstraße 11",
+                "post_code": "75249",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:62556eb3a910d0aced87220d",
+                "name": "Kieselbronn: Festhalle",
+                "lat": 48.93134,
+                "lon": 8.750902,
+                "address": "Eutinger Straße 1",
+                "post_code": "75249",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:626b89ff0b22c7ec1dc3f214",
+                "name": "Holzbronn: Dorfsaal",
+                "lat": 48.659312,
+                "lon": 8.746295,
+                "address": "Gültlinger Straße  13",
+                "post_code": "\t75365",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6270ee100b22c7ec1deaaae2",
+                "name": "Malsch: Bahnhof",
+                "lat": 48.889453,
+                "lon": 8.324202,
+                "address": "Bahnhofstraße 11",
+                "post_code": "76316",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6270f69d0b22c7ec1deb12bc",
+                "name": "Malsch: Rathaus",
+                "lat": 48.879613,
+                "lon": 8.337298,
+                "address": "Hauptstr. 71",
+                "post_code": "76316",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6272335a0b22c7ec1df4e4a1",
+                "name": "Altlußheim: Rathaus",
+                "lat": 49.300285,
+                "lon": 8.498076,
+                "address": "Schulstrasse 1",
+                "post_code": "68804",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:627234050b22c7ec1df4ed80",
+                "name": "Altlußheim: Sophie-Scholl-Str.",
+                "lat": 49.304587,
+                "lon": 8.504254,
+                "address": "Sophie-Scholl-Str. 1",
+                "post_code": "68804",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:627262c0be796776cc5af3d7",
+                "name": "Schwieberdingen: Walkerplatz",
+                "lat": 48.875726,
+                "lon": 9.077096,
+                "address": "Stuttgarterstr.  34",
+                "post_code": "71701",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:62a191583d2e1b531ab0e078",
+                "name": "Schiltach: Am Hirschen",
+                "lat": 48.291161,
+                "lon": 8.34438,
+                "address": "Am Hirschen 2 / 1",
+                "post_code": "77761",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:62a843f28a47f7ecf332fd8f",
+                "name": "Neckartenzlingen: Marktplatz",
+                "lat": 48.590585,
+                "lon": 9.232796,
+                "address": "Marktplatz  14",
+                "post_code": "72654",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:62b019b3a141e028c8971e8f",
+                "name": "Schlierbach: Dorfwiesenhalle",
+                "lat": 48.671547,
+                "lon": 9.515356,
+                "address": "Dorfwiesenstraße  35",
+                "post_code": "73278",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:62b01a8ea141e028c8972e91",
+                "name": "Schlierbach: Bürgerhaus",
+                "lat": 48.673118,
+                "lon": 9.517813,
+                "address": "Kirchstraße 8",
+                "post_code": "73278",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:62b17f74a141e028c8a33d48",
+                "name": "Bretzfeld-Schwabbach: smopi",
+                "lat": 49.17924,
+                "lon": 9.40956,
+                "address": "Im Eisenhütle 12",
+                "post_code": "74626",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:62b2f9743d2e1b531a266890",
+                "name": "Albershausen: Eichenweg",
+                "lat": 48.695879,
+                "lon": 9.559366,
+                "address": "Eichenweg 5",
+                "post_code": "73095",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:62c547d1156f9935f14df82c",
+                "name": "Münsingen: Bahnhof",
+                "lat": 48.410848,
+                "lon": 9.49113,
+                "address": "Bahnhofstrasse 2",
+                "post_code": "72525",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:62d135fbde5cf1727407f5a4",
+                "name": "Süßen: Rathaus",
+                "lat": 48.6794491,
+                "lon": 9.7550003,
+                "address": "Heidenheimerstr 30",
+                "post_code": "73079",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:62d4ff82c60c57978d14c08e",
+                "name": "Birkenfeld-Gräfenhausen: Rathaus",
+                "lat": 48.871,
+                "lon": 8.587,
+                "address": "Rathausplatz 1",
+                "post_code": "75217",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:62d50026de5cf172741e0755",
+                "name": "Birkenfeld: Kirchplatz",
+                "lat": 48.8711,
+                "lon": 8.6363,
+                "address": "Kirchgartenstrasse 5",
+                "post_code": "75217",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:62e3c0d552693e2cf81fccf4",
+                "name": "Besigheim: Bahnhof",
+                "lat": 48.997942,
+                "lon": 9.136535,
+                "address": "Weinstraße 11",
+                "post_code": "74354",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:62e7a58952693e2cf83fad7a",
+                "name": "Bühlertal: Freibad",
+                "lat": 48.687288,
+                "lon": 8.185599,
+                "address": "Hauptstraße  90",
+                "post_code": "77830",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:62f0f33bf8f249177b1e3245",
+                "name": "Frankfurt: Flughafen",
+                "lat": 50.05,
+                "lon": 8.566,
+                "address": "Terminal 1 P2",
+                "post_code": "60549",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:62f35171f8f249177b32e1b6",
+                "name": "Weil der Stadt-Schafhausen: Friedhof",
+                "lat": 48.728443,
+                "lon": 8.891751,
+                "address": "Hinter Höfen 20",
+                "post_code": "71263",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:63105ad10e365bb7ec019a73",
+                "name": "Sindelfingen: Waldenbucher Str.",
+                "lat": 48.695536,
+                "lon": 9.013158,
+                "address": "Waldenbucher Str. 34",
+                "post_code": "71065",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:631ed08b65b104d53b48ee0f",
+                "name": "Allmersbach im Tal",
+                "lat": 48.906917,
+                "lon": 9.467923,
+                "address": "Backnanger Straße 24",
+                "post_code": "71573",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:632056cd0e365bb7ec9787a3",
+                "name": "Gärtringen: Bahnhof",
+                "lat": 48.639459,
+                "lon": 8.90791,
+                "address": "Stuttgarter Straße  17",
+                "post_code": "71116",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:63205aa1537d322064890e50",
+                "name": "Gärtringen: Rathaus",
+                "lat": 48.642003,
+                "lon": 8.902448,
+                "address": "Rohrweg  2",
+                "post_code": "71116",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:63207f0c537d3220648b85dc",
+                "name": "Gärtringen / Rohrau: Kirchplatz",
+                "lat": 48.625023,
+                "lon": 8.923524,
+                "address": "Nufringer Str.  8",
+                "post_code": "71116",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:632c2abfc20d36e6f9058b90",
+                "name": "Großbettlingen: Kirchplatz",
+                "lat": 48.58998,
+                "lon": 9.30955,
+                "address": "Kirchstraße 10",
+                "post_code": "72663",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:633bfd4ff3d17e835da8be90",
+                "name": "Buchen: Bahnhof",
+                "lat": 49.523442,
+                "lon": 9.328062,
+                "address": "Eisenbahnstraße 10",
+                "post_code": "74722",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:635f724fc1af381dd743295a",
+                "name": "Schlaitdorf: Kindergarten ",
+                "lat": 48.606397,
+                "lon": 9.225615,
+                "address": "Florianweg  6",
+                "post_code": "72667",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:636e0d26b92a1637cc6850aa",
+                "name": "Mühlacker: Bahnhof",
+                "lat": 48.952804,
+                "lon": 8.846338,
+                "address": "Bahnhofstraße 119",
+                "post_code": "75417",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:637361d9a1734a1a8c59747f",
+                "name": "Kirchheim am Neckar: Gemeindehaus",
+                "lat": 49.04353,
+                "lon": 9.13725,
+                "address": "Brunnenstraße 25",
+                "post_code": "74366",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6373632ca1734a1a8c599059",
+                "name": "Kirchheim am Neckar: Rathaus",
+                "lat": 49.043024,
+                "lon": 9.144598,
+                "address": "Rathausstraße 12",
+                "post_code": "74366",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6373644bfa1e467a2ebea880",
+                "name": "Kirchheim am Neckar: Bahnhof",
+                "lat": 49.03731,
+                "lon": 9.150486,
+                "address": "Bahnhofstraße 3",
+                "post_code": "74366",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:638750eaf8fefe4e78d57b14",
+                "name": "Zell u. Aichelberg: Friedhof",
+                "lat": 48.648882,
+                "lon": 9.575615,
+                "address": "Göppinger Straße 28",
+                "post_code": "73119",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:638db2ae569fa8698cf37962",
+                "name": "Calw: Marktplatz",
+                "lat": 48.714079,
+                "lon": 8.739731,
+                "address": "Marktplatz 2",
+                "post_code": "75365",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:63a19ae8755f735cc48eccb2",
+                "name": "Engstingen: Marktplatz",
+                "lat": 48.386989,
+                "lon": 9.286996,
+                "address": "Meidelstetter Str. 2",
+                "post_code": "72829",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:63b3f70cd875c43e4c8d9933",
+                "name": "Bad Wimpfen: Kelter",
+                "lat": 49.227041,
+                "lon": 9.161969,
+                "address": "Klingengasse 11",
+                "post_code": "74206",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:63be66ee6cdd17bac5617ded",
+                "name": "Dielheim: Balzfeld",
+                "lat": 49.270606,
+                "lon": 8.78864,
+                "address": "Dorfstr. 52",
+                "post_code": "69234",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:63be675184b27da23d75754f",
+                "name": "Dielheim: Horrenberg",
+                "lat": 49.281511,
+                "lon": 8.780738,
+                "address": "Ortsstraße 37",
+                "post_code": "69234",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:63be67a208f25e3d955b7695",
+                "name": "Dielheim: Theater",
+                "lat": 49.284242,
+                "lon": 8.736273,
+                "address": "Bahnhofstr. 2",
+                "post_code": "69234",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:63be69b56cdd17bac561a6a1",
+                "name": "Bondorf: Bahnhof",
+                "lat": 48.524937,
+                "lon": 8.827982,
+                "address": "Bahnhofstraße 39",
+                "post_code": "71149",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:63be6c466cdd17bac561cc93",
+                "name": "Holzgerlingen: Taubenäcker",
+                "lat": 48.631389,
+                "lon": 9.017093,
+                "address": "Tübingerstraße 107",
+                "post_code": "71088",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:63be6ca46cdd17bac561d512",
+                "name": "Holzgerlingen: Wengersteige",
+                "lat": 48.642929,
+                "lon": 9.028071,
+                "address": "Wengersteige 89",
+                "post_code": "71088",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:63be6dc108f25e3d955bd87c",
+                "name": "Holzgerlingen: Bühleneck",
+                "lat": 48.645087,
+                "lon": 9.026673,
+                "address": "Bühlenstraße 81",
+                "post_code": "71088",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:63be6e1908f25e3d955bde3a",
+                "name": "Holzgerlingen: Bahnhof",
+                "lat": 48.638677,
+                "lon": 9.007362,
+                "address": "Bahnhofstraße 36",
+                "post_code": "71088",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:63cfbbdbb50e2c70610c162c",
+                "name": "Rudersberg: Gemeindehalle",
+                "lat": 48.881949,
+                "lon": 9.528354,
+                "address": "Bronnwiesenweg 11",
+                "post_code": "73635",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:63d0fd94dddcc64c2dc93ee2",
+                "name": "Kuchen Staubstraße",
+                "lat": 48.641552,
+                "lon": 9.800708,
+                "address": "Staubstraße 14",
+                "post_code": "73329",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:63d12c81dddcc64c2dcbbc9a",
+                "name": "Göppingen: Faurndau",
+                "lat": 48.710606,
+                "lon": 9.616424,
+                "address": "Stuttgarter Straße 146",
+                "post_code": "73035",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:63d12d1d24da49fd66a5aa5f",
+                "name": "Göppingen: Holzheim",
+                "lat": 48.686115,
+                "lon": 9.68763,
+                "address": "Schlater Straße 1",
+                "post_code": "73037",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:63d12d9724da49fd66a5b0f3",
+                "name": "Göppingen: Technisches Rathaus",
+                "lat": 48.709422,
+                "lon": 9.655761,
+                "address": "Nördliche Ringstraße 33",
+                "post_code": "73033",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:63e3688110224986b3a53cbc",
+                "name": "Pliezhausen: Rathaus",
+                "lat": 48.5582,
+                "lon": 9.205594,
+                "address": "Wilhelmstraße 7",
+                "post_code": "72124",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:63e368daa51ccb2d4f086a32",
+                "name": "Pliezhausen: Schulberg",
+                "lat": 48.558279,
+                "lon": 9.206293,
+                "address": "Schulberg 2",
+                "post_code": "72124",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:63e3a0c610224986b3a8ad0d",
+                "name": "Aichhalden: Kirchplatz",
+                "lat": 48.267811,
+                "lon": 8.39829,
+                "address": "Kirchplatz 2",
+                "post_code": "78733",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:63f5e88ebb13ebad8f019d96",
+                "name": "Starzach: Stumpacher Weg",
+                "lat": 48.432659,
+                "lon": 8.805835,
+                "address": "Stumpacher Weg 2",
+                "post_code": "72181",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:63f5e99fbb13ebad8f01ac03",
+                "name": "Glatten: Rathaus",
+                "lat": 48.441736,
+                "lon": 8.51404,
+                "address": "Lombacher Straße 25",
+                "post_code": "72293",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:63f5ee72bb13ebad8f01f40f",
+                "name": "Glatten: Neuneck",
+                "lat": 48.419952,
+                "lon": 8.526907,
+                "address": "Wittendorfer Straße 4",
+                "post_code": "72293",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:63ff147d7927a4cbff7f97d8",
+                "name": "Wimberg: Waldsiedlung",
+                "lat": 48.711508,
+                "lon": 8.718187,
+                "address": "Weißtannenstraße 16",
+                "post_code": "75365",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:63ff1585c92577fc334ffdcc",
+                "name": "Stammheim: Holzbronner Straße",
+                "lat": 48.689255,
+                "lon": 8.769254,
+                "address": "Holzbronner Straße 66",
+                "post_code": "75365",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:63ff1672c92577fc33500776",
+                "name": "Stammheim: Mühläckerstraße",
+                "lat": 48.69839,
+                "lon": 8.759667,
+                "address": "Mühläckerstraße 43",
+                "post_code": "75365",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:63ff184011dae5324a8fd99c",
+                "name": "Stammheim: Stadion",
+                "lat": 48.693008,
+                "lon": 8.764831,
+                "address": "Jahnstraße 10",
+                "post_code": "75365",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6405b21fac00c680993d1505",
+                "name": "Alzenberg: Höhenring",
+                "lat": 48.723335,
+                "lon": 8.721653,
+                "address": "Höhenring 48",
+                "post_code": "75365",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6409a57ed166920896af6c0d",
+                "name": "Muggensturm: Bahnhofsplatz",
+                "lat": 48.876997,
+                "lon": 8.275711,
+                "address": "Bahnhofsplatz 9",
+                "post_code": "76461",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:641053c8cb07bcb99a89d658",
+                "name": "Grafenberg",
+                "lat": 48.566744,
+                "lon": 9.307474,
+                "address": "Kohlberger Str. 3",
+                "post_code": "72661",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:641ad401610cc1acc44dbb4d",
+                "name": "Weissach: Rathaus",
+                "lat": 48.846757,
+                "lon": 8.929591,
+                "address": "Rathausplatz 1",
+                "post_code": "71287",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64215c69e735ca278199a2cd",
+                "name": "Reilingen: Turnhalle",
+                "lat": 49.294961,
+                "lon": 8.563338,
+                "address": "Wilhelmstraße 42/3",
+                "post_code": "68799",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64241a82610cc1acc4ac522d",
+                "name": "Eich: Rathaus",
+                "lat": 49.749896,
+                "lon": 8.402233,
+                "address": "Hauptstraße 26",
+                "post_code": "67575",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:643d49fd674b71f58ddbb040",
+                "name": "Heumaden: Breslauer Straße",
+                "lat": 48.715066,
+                "lon": 8.759953,
+                "address": "Breslauer Straße 30",
+                "post_code": "75365 ",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64462d755a6380b4861d227b",
+                "name": "Hohenstein-Ödenwaldstetten: Bügersaal",
+                "lat": 48.348093,
+                "lon": 9.374417,
+                "address": "Im Dorf 7",
+                "post_code": "72531",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64464ccd34917703032f9f1a",
+                "name": "Engelsbrand: Rathaus",
+                "lat": 48.830845,
+                "lon": 8.644814,
+                "address": "Ludwig-Hummel-Weg 2",
+                "post_code": "75331",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64464d2734917703032faafd",
+                "name": "Grunbach: Rathaus",
+                "lat": 48.831752,
+                "lon": 8.676923,
+                "address": "Eichbergstraße 1",
+                "post_code": "75331",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64464f075a6380b486201969",
+                "name": "Salmbach: Rathaus",
+                "lat": 48.823346,
+                "lon": 8.658003,
+                "address": "Pforzheimer Straße 14",
+                "post_code": "75331",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:645115d3ae9de0b2fc7705ec",
+                "name": "Höpfingen: Rathaus",
+                "lat": 49.602191,
+                "lon": 9.429381,
+                "address": "Heidelberger Straße 20",
+                "post_code": "74746",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64621e5488d346dffb8ca23e",
+                "name": "Aichtal: Häfnerstraße",
+                "lat": 48.622795,
+                "lon": 9.205861,
+                "address": "Häfnerstraße 2",
+                "post_code": "72631",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64621eafdd3c02edb0964f8e",
+                "name": "Aichtal: Aichbachwasen",
+                "lat": 48.626963,
+                "lon": 9.261983,
+                "address": "Aichbachwasen 2",
+                "post_code": "72631",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64621f3add3c02edb0965aec",
+                "name": "Aichtal: Neckartailfinger Straße",
+                "lat": 48.622706,
+                "lon": 9.240706,
+                "address": "Neckartailfingerstraße 5",
+                "post_code": "72631",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:646f18c5b98dbd8714dcfcff",
+                "name": "Neulingen: Göbrichen",
+                "lat": 48.956518,
+                "lon": 8.703401,
+                "address": "Hauptstraße 42",
+                "post_code": "75245",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:646f1935312ca7decad2464c",
+                "name": "Neulingen: Auweg ",
+                "lat": 48.968404,
+                "lon": 8.732938,
+                "address": "Auweg  18",
+                "post_code": "75245",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:646f197bb17cec45326fde21",
+                "name": "Neulingen: Nussbaum - Steiner Straße",
+                "lat": 48.989206,
+                "lon": 8.692548,
+                "address": "Steiner Straße 12",
+                "post_code": "75245",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:646f19b1312ca7decad259cb",
+                "name": "Neulingen: Rathaus ",
+                "lat": 48.969168,
+                "lon": 8.720867,
+                "address": "Schlosstraße 2",
+                "post_code": "75245",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64784d2a9cac9a8a731692c5",
+                "name": "Wurmberg: Rathaus",
+                "lat": 48.870891,
+                "lon": 8.820016,
+                "address": "Uhlandstraße 15",
+                "post_code": "75449",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64784d879cac9a8a7316989b",
+                "name": "Wimsheim: Rathaus",
+                "lat": 48.852111,
+                "lon": 8.827081,
+                "address": "Rathausstraße 1",
+                "post_code": "71299",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64784de2d2c66aa378325598",
+                "name": "Mönsheim: Sportplatz",
+                "lat": 48.867561,
+                "lon": 8.851032,
+                "address": "Im Gödelmann 13",
+                "post_code": "71297",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64784ee2d2c66aa378327bcd",
+                "name": "Heimsheim: Rathaus",
+                "lat": 48.806063,
+                "lon": 8.862209,
+                "address": "Schloßhof 2",
+                "post_code": "71296",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:647edb25cad5a79871b92595",
+                "name": "Niefern-Öschelbronn: Alter Friedhof",
+                "lat": 48.91722,
+                "lon": 8.78064,
+                "address": "Pforzheimer Str. 4",
+                "post_code": "75223",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6486bdae704f2d0af361141f",
+                "name": "Alzey: Bahnhof",
+                "lat": 49.749725,
+                "lon": 8.10992,
+                "address": "Bahnhofstr. 28",
+                "post_code": "55232",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64915eac4325c574efc4dd97",
+                "name": "Balingen: Bahnhof",
+                "lat": 48.27528999063507,
+                "lon": 8.85082154099265,
+                "address": "Bahnhofstraße 2",
+                "post_code": "72336",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:649ab4e1c12f626c25dd32c3",
+                "name": "Walddorfhäslach: Dorfgemeinschaftshaus",
+                "lat": 48.597318,
+                "lon": 9.195498,
+                "address": "Dorfstraße 30",
+                "post_code": "72141",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:649ab536675e41ef65ddbcde",
+                "name": "Walddorfhäslach: Rathaus",
+                "lat": 48.585636,
+                "lon": 9.183034,
+                "address": "Friedhofstraße 1",
+                "post_code": "72141",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:649bdd563e152a8e0ff9e04b",
+                "name": "Nackenheim: Turnhalle",
+                "lat": 49.918404,
+                "lon": 8.341467,
+                "address": "An der Turnhalle 11",
+                "post_code": "55299",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:649e91b8fc19e7b534d09f82",
+                "name": "Neuhausen: Rathaus",
+                "lat": 48.79275,
+                "lon": 8.778902,
+                "address": " Pforzheimer Str. 20",
+                "post_code": "75242",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64a268321c76abb8e8c7502e",
+                "name": "Höfen: Festhalle",
+                "lat": 48.805719,
+                "lon": 8.582659,
+                "address": "Enzauenweg 53",
+                "post_code": "75339",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64a2b5761c76abb8e8cffe54",
+                "name": "Hofquartier Möhringen",
+                "lat": 48.732,
+                "lon": 9.155,
+                "address": "Jörg- Zink-Platz  5",
+                "post_code": "70567",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64a5415efc19e7b5345e082a",
+                "name": "Wolfegg: Rathaus",
+                "lat": 47.820827,
+                "lon": 9.795386,
+                "address": "Am Hofgarten 1",
+                "post_code": "88364",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64a69142a8df10917564eec3",
+                "name": "Pfaffenhofen",
+                "lat": 49.06311,
+                "lon": 8.975199,
+                "address": "Maulbronner Straße 5",
+                "post_code": "74397",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64a691a03319349a6f8f16d8",
+                "name": "Wernau: Quadrium",
+                "lat": 48.690527,
+                "lon": 9.417641,
+                "address": "Kirchheimer Straße 68",
+                "post_code": "73249",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64ad14a2a8df109175edb608",
+                "name": "Massenbachhausen: Sportplatz",
+                "lat": 49.175693,
+                "lon": 9.046955,
+                "address": "Heilbronner Straße 54",
+                "post_code": "74252",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64ae630443594eefc75e1886",
+                "name": "Gechingen: Talaue",
+                "lat": 48.69308,
+                "lon": 8.827463,
+                "address": "Talstraße  5",
+                "post_code": "75391",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64b81ff7da3672a53ef14bce",
+                "name": "Laudenbach: Rathaus",
+                "lat": 49.609731,
+                "lon": 8.651911,
+                "address": "Untere Straße 2",
+                "post_code": "69514",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64b8cc77097d2b0114813cd0",
+                "name": "Gomadingen: Rathaus",
+                "lat": 48.399809,
+                "lon": 9.392594,
+                "address": "Marbacher Straße 2",
+                "post_code": "72532",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64be7e3c257434c883bec596",
+                "name": "Weisenbach: Rathaus",
+                "lat": 48.729435,
+                "lon": 8.355507,
+                "address": "Hauptstraße 3",
+                "post_code": "76599",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64d4a71a065799e4bcbee6a5",
+                "name": "Güglingen: Stadtgraben",
+                "lat": 49.06733,
+                "lon": 9.001119,
+                "address": "Stadtgraben 4",
+                "post_code": "74363",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64d4a8d7341c8c842f96a8ee",
+                "name": "Kirchardt-Berwangen",
+                "lat": 49.183694,
+                "lon": 8.977297,
+                "address": "Birkenstraße  3",
+                "post_code": "74912",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64d4a8f1341c8c842f96b0e9",
+                "name": "Kirchardt: Rathaus",
+                "lat": 49.205137,
+                "lon": 8.990023,
+                "address": "Hauptstraße 36",
+                "post_code": "74912",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64d9c74cfe24e58c792f2d36",
+                "name": "Allmendingen: Bahnhof",
+                "lat": 48.32789,
+                "lon": 9.72289,
+                "address": "Bahnhofstraße 10",
+                "post_code": "89604",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64dde072b214f31bdd6098f4",
+                "name": "Dürnau: Schlossgarten",
+                "lat": 48.6416043,
+                "lon": 9.6336606,
+                "address": "Von-Degenfeld-Weg 14",
+                "post_code": "73105",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64e849e17be35503199e98e8",
+                "name": "Rüsselsheim Motorworld ",
+                "lat": 49.991875,
+                "lon": 8.4103487,
+                "address": "Weisenauer Straße / Ecke Heinrichstraße 40 ",
+                "post_code": "65428",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64f075e9f38653a827984437",
+                "name": "Börtlingen: Rathaus",
+                "lat": 48.753847,
+                "lon": 9.632111,
+                "address": "Hauptstraße 54",
+                "post_code": "73104",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64f07a9e86b1c8e5dfeec411",
+                "name": "Stuttgart: Botnang",
+                "lat": 48.779036,
+                "lon": 9.128142,
+                "address": "Regerstraße 22",
+                "post_code": "70195",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64f07b78efdd70b85acf0fb6",
+                "name": "Stuttgart: West",
+                "lat": 48.773175,
+                "lon": 9.156576,
+                "address": "Vogelsangstraße 31/2",
+                "post_code": "70176",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64f07c8ff38653a82798abc2",
+                "name": "Stuttgart: Möhringen",
+                "lat": 48.731198,
+                "lon": 9.148373,
+                "address": "Probststraße 39",
+                "post_code": "70567",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64f07d26f38653a82798b1ff",
+                "name": "Stuttgart: Nord",
+                "lat": 48.790029,
+                "lon": 9.170519,
+                "address": "Helfferichstraße 10",
+                "post_code": "70192",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64f07d9725ccb4f42cec3ba1",
+                "name": "Stuttgart: Giebel",
+                "lat": 48.803293,
+                "lon": 9.092068,
+                "address": "Ernst-Reuter-Platz 4/2",
+                "post_code": "70499",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:64feffb7cd1ed1deafc3e98f",
+                "name": "Adelsheim",
+                "lat": 49.402048,
+                "lon": 9.391923,
+                "address": "Rietstraße 2",
+                "post_code": "74740",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:65128b3a40384c2853a30a61",
+                "name": "Annweiler am Trifels: Bahnhof",
+                "lat": 49.205627,
+                "lon": 7.967372,
+                "address": "Bahnhofstr.  19",
+                "post_code": "76855",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:651a9b352bff1da979439fe7",
+                "name": "Stuttgart: Stadtwerke",
+                "lat": 48.766,
+                "lon": 9.25161,
+                "address": "Kesselstrasse 23",
+                "post_code": "70327",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:652d2c1ceeb2dfe524d837bf",
+                "name": "Trochtelfingen",
+                "lat": 48.308032,
+                "lon": 9.244465,
+                "address": "Untere Gasse 7",
+                "post_code": "72818",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:652f9d69297b6cb2ba2ccd2a",
+                "name": "Weidenbach: Bürgerhaus",
+                "lat": 49.199344,
+                "lon": 10.645569,
+                "address": " Ringstraße 2",
+                "post_code": " 91746",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6538b14aceef416eaf6fe2ee",
+                "name": "Friolzheim: Bachweg",
+                "lat": 48.83477,
+                "lon": 8.83459,
+                "address": "Bachweg  3",
+                "post_code": "71292",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:654a3b7b9d8291c08976df46",
+                "name": "Metzingen: Motorworld",
+                "lat": 48.532407,
+                "lon": 9.2899,
+                "address": "Alte Schmiede 2",
+                "post_code": "72555",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:654a3ee46ffc966354239b36",
+                "name": "Merkendorf: Bürgerzentrum",
+                "lat": 49.198346,
+                "lon": 10.700052,
+                "address": "Am Sportplatz 2",
+                "post_code": "91732",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:654a3fdc4375fcb04cefd9ac",
+                "name": "Triesdorf: Bahnhof",
+                "lat": 49.200934,
+                "lon": 10.678754,
+                "address": "Triesdorfer Bahnhof 5",
+                "post_code": "91732",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:654a40cd6ffc96635423abdc",
+                "name": "Wolframs-Eschenbach: Kirche",
+                "lat": 49.226732,
+                "lon": 10.720409,
+                "address": "Gartenstraße 1",
+                "post_code": "91639",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:654a418a9d8291c08977129e",
+                "name": "Eschenbach: Sudetenstraße",
+                "lat": 48.656959,
+                "lon": 9.669689,
+                "address": "Sudetenstraße 26",
+                "post_code": "73107",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:654a42e66ffc96635423d061",
+                "name": "Ornbau: Stadthalle",
+                "lat": 49.178983,
+                "lon": 10.655263,
+                "address": "Weidenbacher Str.  23",
+                "post_code": "91737",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:655343931e96a532c4406a1c",
+                "name": "Heimenkirch: Bahnhof",
+                "lat": 47.629277,
+                "lon": 9.901084,
+                "address": "Bahnhofstraße 9",
+                "post_code": "88178 ",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:655344bfeb02a6fd609eb99e",
+                "name": "Remchingen: Kulturhalle",
+                "lat": 48.952878,
+                "lon": 8.569399,
+                "address": "Hauptstraße  115",
+                "post_code": "75196",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:655345bd645c32f571311128",
+                "name": "Sternenfels: Post",
+                "lat": 49.048471,
+                "lon": 8.849994,
+                "address": "Maulbronner Straße 26",
+                "post_code": "75447",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:65534660645c32f57131159b",
+                "name": "Diefenbach: Sporthalle",
+                "lat": 49.024216,
+                "lon": 8.854935,
+                "address": "Burrainstraße 16",
+                "post_code": "75447",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:656efae5fd99eb36c5f8396c",
+                "name": "Waiblingen: Alfred-Leikam Straße ",
+                "lat": 48.834371,
+                "lon": 9.322257,
+                "address": "Alfred-Leikam Straße  2-18",
+                "post_code": "71334",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6570283bda433fdf7655682e",
+                "name": "Steinheim: Bahnhof",
+                "lat": 48.967157,
+                "lon": 9.274798,
+                "address": "Bahnhofstr. 2",
+                "post_code": "71711",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:657029dddcb89fc38234954d",
+                "name": "Steinheim: Bottwarhalle",
+                "lat": 48.980229,
+                "lon": 9.286118,
+                "address": "Bottwarstraße 3",
+                "post_code": "71711",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:65702a9b8e14f8ef6495a280",
+                "name": "Steinheim: Sporthalle",
+                "lat": 48.982412,
+                "lon": 9.238815,
+                "address": "Burgunder Straße 4",
+                "post_code": "71711",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:658044082e3c9215eaeecf41",
+                "name": "Rosenberg: Bahnhof",
+                "lat": 49.457586,
+                "lon": 9.471295,
+                "address": "Dörrhöfer Weg 2",
+                "post_code": "74749",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:65a10e8f9e8b42eaa7aed5b7",
+                "name": "Kieselbronn: Werner-Siemens-Straße",
+                "lat": 48.9331,
+                "lon": 8.74284,
+                "address": "Werner-Siemens-Straße  13",
+                "post_code": "75249",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:65bcc53e5ab025131377e553",
+                "name": "Unterschwandorf",
+                "lat": 48.54158,
+                "lon": 8.671426,
+                "address": "Schloßstraße  8",
+                "post_code": "72221 ",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:65c1fd77e42a35ca73e4c9a6",
+                "name": "Oberreichenbach: Rathaus",
+                "lat": 48.734348,
+                "lon": 8.664188,
+                "address": "Schulstraße 3",
+                "post_code": "75394",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:65c1fe605bd6fda2a1627b56",
+                "name": "Unterensingen: Esslinger Straße",
+                "lat": 48.656107,
+                "lon": 9.355676,
+                "address": "Esslinger Straße 1",
+                "post_code": "72669",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:65d45c9a1428b27b194d3a47",
+                "name": "Böbingen (Rems): Bahnhof",
+                "lat": 48.822364,
+                "lon": 9.913966,
+                "address": "Bahnhofstraße 26",
+                "post_code": "73560",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:65d45db5ac22acd83272b8c3",
+                "name": "Böbingen (Rems): Bürglestraße",
+                "lat": 48.818498,
+                "lon": 9.923492,
+                "address": "Bürglestraße 7",
+                "post_code": "73560",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:65e6e7e768111e7f3d96c03f",
+                "name": "Reutlingen: Landratsamt",
+                "lat": 48.494509,
+                "lon": 9.218676,
+                "address": "Bismarckstraße 47",
+                "post_code": "72766",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:65eac830a57ddabfef3834ca",
+                "name": "Billigheim-Sulzbach: Feuerwehr",
+                "lat": 49.352238,
+                "lon": 9.223349,
+                "address": "Fernichweg  1a",
+                "post_code": "74842",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:65eaca357444089559aef426",
+                "name": "Billigheim: Schefflenztalstraße",
+                "lat": 49.347569,
+                "lon": 9.253904,
+                "address": "Schefflenztalstraße  2",
+                "post_code": "74842",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:65ead42d0b3d8ae261015924",
+                "name": "Weilheim an der Teck: Kirche",
+                "lat": 48.616526,
+                "lon": 9.53765,
+                "address": "Brunnenstraße 11",
+                "post_code": "73235",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:65eae80368111e7f3db00178",
+                "name": "Gültstein: deer",
+                "lat": 48.575022,
+                "lon": 8.893846,
+                "address": "Hertzstraße  16",
+                "post_code": "71083",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:65f16de07444089559cfebf8",
+                "name": "Bissingen: Alte Schule",
+                "lat": 48.598488,
+                "lon": 9.491329,
+                "address": "Vordere Straße 33",
+                "post_code": "73266",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:65f7ec0c852f864ccb130b72",
+                "name": "Donauwörth: Schule",
+                "lat": 48.719961,
+                "lon": 10.778277,
+                "address": "Klostergasse 5",
+                "post_code": "86609",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:660291c72d5f9f036a8f5110",
+                "name": "Gau-Odernheim: Volksbank",
+                "lat": 49.78464,
+                "lon": 8.194345,
+                "address": "Kegelbahnstraße 10",
+                "post_code": "55239",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66029292f735e2d373f1c719",
+                "name": "Grünenbach: Kindergarten",
+                "lat": 47.626753,
+                "lon": 10.004163,
+                "address": "Hauptstraße 24",
+                "post_code": "88167",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:660293b874dd975536c9a2a6",
+                "name": "Rauenberg: Kulturhalle",
+                "lat": 49.269426,
+                "lon": 8.700295,
+                "address": "Dambach la Ville Straße 3",
+                "post_code": "69231",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:660294c5852f864ccb464576",
+                "name": "Simmersfeld: Freudenstädter Straße",
+                "lat": 48.621715,
+                "lon": 8.516696,
+                "address": "Freudenstädter Straße 6",
+                "post_code": "72226",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66029ae193d80627b21b18b6",
+                "name": "Berghülen: Kirchstraße",
+                "lat": 48.464488,
+                "lon": 9.760464,
+                "address": "Kirchstraße 2",
+                "post_code": "89180",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6602a170fdac19e3759dc155",
+                "name": "Ispringen: Bahnhofstraße",
+                "lat": 48.91608,
+                "lon": 8.67039,
+                "address": "Bahnhofstraße 3/1",
+                "post_code": "75228",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6602a23bfdac19e3759dcc90",
+                "name": "Keltern: Dietlingen",
+                "lat": 48.894683,
+                "lon": 8.60425,
+                "address": "Bahnhofstraße 1",
+                "post_code": "75210",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6602a2a74f1d50b5f9f447f7",
+                "name": "Keltern: Rathaus Ellmendingen",
+                "lat": 48.901788,
+                "lon": 8.57851,
+                "address": "Weinbergstraße 9",
+                "post_code": "75210",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6605808f515b54ad4a5826c7",
+                "name": "Schorndorf: Bismarkstraße",
+                "lat": 48.807357,
+                "lon": 9.522229,
+                "address": "Bismarckstraße 16",
+                "post_code": "73614",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:660bd0de994e8f7a9313751a",
+                "name": "Nöttingen: Ortsmitte",
+                "lat": 48.929844,
+                "lon": 8.568986,
+                "address": "Karlsbader Str. 38",
+                "post_code": "75196",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:660e2d9f09fa2fb02c9e3bb3",
+                "name": "Oberschwandorf: Bürgerhaus",
+                "lat": 48.551329,
+                "lon": 8.660727,
+                "address": "Wehrstraße 10",
+                "post_code": "72221",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:660e2e30994e8f7a93207cec",
+                "name": "Beihingen: Heimatmuseum",
+                "lat": 48.5404,
+                "lon": 8.637364,
+                "address": "Schilfweg  2",
+                "post_code": "72221",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:660e4e3a994e8f7a932174c1",
+                "name": "Bietigheim(Baden): Rathaus",
+                "lat": 48.911759,
+                "lon": 8.250988,
+                "address": "Malscher Straße 19",
+                "post_code": "76467",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:660e5aa146644b88a5d495ae",
+                "name": "Königsbach-Stein: Bahnhof",
+                "lat": 48.962972,
+                "lon": 8.60942,
+                "address": "Durlacherstraße 19",
+                "post_code": "75203",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:660e5b24b1b709f327d4b727",
+                "name": "Königsbach-Stein: Königsbacherstraße",
+                "lat": 48.96253,
+                "lon": 8.642986,
+                "address": "Königsbacher Straße 17",
+                "post_code": "75203",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:660fbe298ca2d4ab103f69d7",
+                "name": "Laupheim: Mehrzweckhalle",
+                "lat": 48.223782,
+                "lon": 9.827097,
+                "address": "Obersulmetinger Straße 56",
+                "post_code": "88471",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:660fbed309fa2fb02ca8353a",
+                "name": "Laupheim: Schlosspark",
+                "lat": 48.231167,
+                "lon": 9.884908,
+                "address": "Bronner Straße 4",
+                "post_code": "88471",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:660fbf93b1b709f327dd3383",
+                "name": "Laupheim: Parkhaus Rabenstraße",
+                "lat": 48.226361,
+                "lon": 9.879352,
+                "address": "Rabenstraße 60",
+                "post_code": "88471",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:660fc00d26e02b061b88d658",
+                "name": "Laupheim: Bahnhof",
+                "lat": 48.233914,
+                "lon": 9.879105,
+                "address": "Eisenbahnstraße 4",
+                "post_code": "88471",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6613b40646644b88a5ec7d15",
+                "name": "Waldachtal-Tumlingen: Rathaus",
+                "lat": 48.476552,
+                "lon": 8.576214,
+                "address": "Theodor-Heuss-Straße 10",
+                "post_code": "72178 ",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6613b50edea0ca04112651bd",
+                "name": "Waldachtal-Lützenhardt: P + R Parkplatz",
+                "lat": 48.485691,
+                "lon": 8.565793,
+                "address": "Schönaustrasse 100",
+                "post_code": "72178",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6613b5bbdea0ca0411265be3",
+                "name": "Waldachtal-Oberwaldach: Bürgerhaus am Waldweg 4",
+                "lat": 48.49911,
+                "lon": 8.57581,
+                "address": "Bachstrasse 6",
+                "post_code": "72178 ",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6613b68926e02b061b9865a2",
+                "name": "Waldachtal-Salzstetten: Ecke Hauptstraße / Biergasse",
+                "lat": 48.487503,
+                "lon": 8.607785,
+                "address": "Hauptstraße 14",
+                "post_code": "72178",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66150f95f014ecbd829bc566",
+                "name": "Maulbronn: Frankfurterstraße",
+                "lat": 48.997644,
+                "lon": 8.803638,
+                "address": "Frankfurterstraße 39",
+                "post_code": "75433",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:661523aa467486cc1f2b0026",
+                "name": "Maulbronn: Zaisersweiher",
+                "lat": 49.008666,
+                "lon": 8.861525,
+                "address": "Füllmenbacherhofweg 1/1",
+                "post_code": "75433",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66152495dea0ca04112f778e",
+                "name": "Maulbronn: Schmie",
+                "lat": 48.984709,
+                "lon": 8.829017,
+                "address": "Strombergstraße 14",
+                "post_code": "75433",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66152506dea0ca04112f7da7",
+                "name": "Scheidegg: Pfarrplatz",
+                "lat": 47.582522,
+                "lon": 9.850716,
+                "address": "Pfarrweg 1",
+                "post_code": "88175",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:661525928ca2d4ab1058289a",
+                "name": "Röthenbach: Bahnhof",
+                "lat": 47.621393,
+                "lon": 9.95288,
+                "address": "Bahnhofstr. 24",
+                "post_code": "88167",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:661525e009fa2fb02cc16362",
+                "name": "Haßmersheim: Friedenstraße",
+                "lat": 49.300313,
+                "lon": 9.146726,
+                "address": "Friedenstraße 8",
+                "post_code": "74855",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66152669467486cc1f2b1f66",
+                "name": "Schlaitdorf: Friedrichstraße",
+                "lat": 48.606413,
+                "lon": 9.226535,
+                "address": "Friedrichstraße 1",
+                "post_code": "72667",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66162cea467486cc1f304be2",
+                "name": "Eisingen: Pforzheimer Straße",
+                "lat": 48.947607,
+                "lon": 8.668727,
+                "address": "Pforzheimer Straße 2",
+                "post_code": "75239",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:661e1a076285865070ed8e17",
+                "name": "Freudenstadt: Landratsamt",
+                "lat": 48.46105,
+                "lon": 8.416891,
+                "address": "Landhausstraße 3",
+                "post_code": "72250",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:661e84cc5dfbc78584b5743f",
+                "name": "Weidenbach: Lehranstalten",
+                "lat": 49.202116,
+                "lon": 10.649932,
+                "address": "Falkenhof 1",
+                "post_code": "91746",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:661e85847edc6d834bbdcd76",
+                "name": "Weidenbach: Aprovis",
+                "lat": 49.193739,
+                "lon": 10.649153,
+                "address": "Ornbauer Straße 10",
+                "post_code": "91746",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:661e870f7edc6d834bbde754",
+                "name": "Wolframs-Eschenbach: Stadtmauer",
+                "lat": 49.228026,
+                "lon": 10.725021,
+                "address": "Obere Gasse 2",
+                "post_code": "91639",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:661e8e283e71f14d80e940c3",
+                "name": "Neckartailfingen: Tübinger Straße",
+                "lat": 48.611101,
+                "lon": 9.264357,
+                "address": "Tübinger Straße  1",
+                "post_code": "72666",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:661e8e6d83f28f86277087f4",
+                "name": "Neckartailfingen: Hoheneuffenstraße",
+                "lat": 48.610524,
+                "lon": 9.271669,
+                "address": "Hoheneuffenstraße 1",
+                "post_code": "72666",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:662785b8191906131d1526c1",
+                "name": "Kirchheim am Ries: Rathaus",
+                "lat": 48.877191,
+                "lon": 10.399379,
+                "address": "Auf dem Wört 16",
+                "post_code": "73467",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6628bafad34edfcf0c7e6c7d",
+                "name": "Neuenbürg: Mühlstraße",
+                "lat": 48.845062,
+                "lon": 8.589269,
+                "address": "Mühlstraße 35",
+                "post_code": "75305",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:662b6aa8fdd12e04eada2994",
+                "name": "Erligheim: Im kleinen Flürle",
+                "lat": 49.020202,
+                "lon": 9.092805,
+                "address": "Im kleinen Flürle 21",
+                "post_code": "74391",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:662b6be1d2c182de4aea0753",
+                "name": "Knittlingen: Parkstraße ",
+                "lat": 49.026015,
+                "lon": 8.758385,
+                "address": "Parkstraße 2",
+                "post_code": "75438",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:662b6c0f92871710bb779207",
+                "name": "Dettingen: Rathaus",
+                "lat": 48.53,
+                "lon": 9.34734,
+                "address": "Hinter dem Rathaus  1",
+                "post_code": "72581",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:662b9a91d5f2119ebad44f6f",
+                "name": "Ittlingen: Rathaus",
+                "lat": 49.193797,
+                "lon": 8.934746,
+                "address": "Hauptstraße  101",
+                "post_code": "74930",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:662b9b9a0cd40f37a44e9dd4",
+                "name": "Grünkraut: Festhalle",
+                "lat": 47.740524,
+                "lon": 9.655324,
+                "address": "Bodeneggerstraße 25",
+                "post_code": "88287",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:662b9c36d5f2119ebad45c2a",
+                "name": "Alleshausen: Rathaus",
+                "lat": 48.103109,
+                "lon": 9.620693,
+                "address": "Hauptstraße 10",
+                "post_code": "88422",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:662b9db20a1f8bde4de51cd0",
+                "name": "Ebhausen: Festplatz Kirche ",
+                "lat": 48.583848,
+                "lon": 8.680515,
+                "address": "Bei der Kirche  1",
+                "post_code": "72224",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:662b9e380cd40f37a44eb515",
+                "name": "Ebhausen: Rotfelden",
+                "lat": 48.60628,
+                "lon": 8.69672,
+                "address": "Hauptstraße 47",
+                "post_code": "72224",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:663362ddd2c182de4a1a3b73",
+                "name": "Knittlingen-Kleinvillars: Friedhofstraße",
+                "lat": 48.998455,
+                "lon": 8.745549,
+                "address": "Friedhofstraße 6",
+                "post_code": "75438",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6633637dd2c182de4a1a429b",
+                "name": "Knittlingen-Freudenstein: Seewiesenstraße",
+                "lat": 49.029025,
+                "lon": 8.812838,
+                "address": "Seewiesenstraße 5",
+                "post_code": "75438",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:663398850cd40f37a48010b5",
+                "name": "Bodenheim: Rathaus",
+                "lat": 49.929728,
+                "lon": 8.303755,
+                "address": "Am Dollesplatz 1",
+                "post_code": "55294",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6644a2a1291fd3070a36f3e8",
+                "name": "Freudental: Elsbeerenring",
+                "lat": 49.005839,
+                "lon": 9.063576,
+                "address": "Elsbeerenring 2",
+                "post_code": "74392",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6644a4d56be9b893c6d407f1",
+                "name": "Seckach: Bahnhof",
+                "lat": 49.440611,
+                "lon": 9.338908,
+                "address": "Bahnhofstraße 10/1",
+                "post_code": "74743",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:664c7298f821c35aca656651",
+                "name": "Mettenheim: Bahnhof",
+                "lat": 49.73962,
+                "lon": 8.333537,
+                "address": "Danzinger Straße 2",
+                "post_code": "67582",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:664c73500e703d61a94bf624",
+                "name": "Alsheim: Rathaus",
+                "lat": 49.765737,
+                "lon": 8.340676,
+                "address": "Bahnhofstr. 2",
+                "post_code": "67577",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:664c73d318991d370b267b36",
+                "name": "Gimbsheim: Sportplatz",
+                "lat": 49.777517,
+                "lon": 8.379663,
+                "address": "Am Sportplatz 1",
+                "post_code": "67578",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:664c745e18991d370b268136",
+                "name": "Hamm am Rhein: Gemeindehalle",
+                "lat": 49.731548,
+                "lon": 8.42998,
+                "address": "Leuschnerstr. 1",
+                "post_code": "67580",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:664c74f64db73ffd1ca12408",
+                "name": "Kappelrodeck: Hauptstraße",
+                "lat": 48.590185,
+                "lon": 8.118705,
+                "address": "Hauptstrasse 109",
+                "post_code": "77876",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:664c9e6345fa0f8496a9f16e",
+                "name": "Neulingen: Nussbaum - Kanalstraße",
+                "lat": 48.991004,
+                "lon": 8.696595,
+                "address": "Kanalstraße 38",
+                "post_code": "75245",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6655a764f04388d13c20f794",
+                "name": "Waiblingen: Kernen",
+                "lat": 48.811636,
+                "lon": 9.327723,
+                "address": "Beinsteiner Straße 29",
+                "post_code": "71394",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6656d09b63bd2115c39c82f8",
+                "name": "Sasbach: Oberdorfstraße",
+                "lat": 48.64033,
+                "lon": 8.09257,
+                "address": "Oberdorfstrasse 1",
+                "post_code": "77880",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6656dd66f04388d13c26eb8f",
+                "name": "Aidlingen: Dachtel ",
+                "lat": 48.681099,
+                "lon": 8.852413,
+                "address": "Vogelsangstrasse 20",
+                "post_code": "71134",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6656de225769c1eb26773a73",
+                "name": "Lauchheim: Biennerstraße",
+                "lat": 48.872169,
+                "lon": 10.245228,
+                "address": "Biennerstraße 3",
+                "post_code": "73466",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:665dc2456ba81e9c8d4b6d0b",
+                "name": "Bietigheim(Baden): Kreisel",
+                "lat": 48.903618,
+                "lon": 8.250504,
+                "address": "Fichtenweg  10",
+                "post_code": "76467",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:666a93e119ec3fa9d6b564da",
+                "name": "Schönau: Sportplatz",
+                "lat": 49.461237,
+                "lon": 8.805781,
+                "address": "Altneudorfer Straße 36",
+                "post_code": "69250",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:666a951b70f4f2e33606141d",
+                "name": "Heiligkreuzsteinach: Rathaus",
+                "lat": 49.485862,
+                "lon": 8.795596,
+                "address": "Rathausstraße  7",
+                "post_code": "69253",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66702bc018988a3872a4788a",
+                "name": "Schönaich: Schulstraße",
+                "lat": 48.658305,
+                "lon": 9.062691,
+                "address": "Schulstraße 2",
+                "post_code": "71101",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66729a4ba25b8904b2f5161b",
+                "name": "Neulußheim: Bahnhof",
+                "lat": 49.292755,
+                "lon": 8.528714,
+                "address": "Am Bahnhof 2",
+                "post_code": "68809",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66729c400baaa3338ee22afe",
+                "name": "Ravenstein: Uhlandstraße ",
+                "lat": 49.430524,
+                "lon": 9.558192,
+                "address": "Uhlandstraße  21",
+                "post_code": "74747",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66729f690baaa3338ee26191",
+                "name": "Altdorf (LKR Esslingen): Großbettlinger Straße",
+                "lat": 48.591584,
+                "lon": 9.275789,
+                "address": "Großbettlinger Straße  10",
+                "post_code": "72655",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:667c024132ed8db614852e40",
+                "name": "Meckenbeuren: Bahnhof",
+                "lat": 47.700543,
+                "lon": 9.559188,
+                "address": "Bahnhofsplatz 4",
+                "post_code": "88074",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6685584c2f7980a2461c6fff",
+                "name": "Löchgau: Riedstraße",
+                "lat": 49.002977,
+                "lon": 9.10178,
+                "address": "Riedstraße 3",
+                "post_code": "74369",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:668cef4ade318a3a8e2af4af",
+                "name": "Heubach: Hauptstraße",
+                "lat": 48.787879,
+                "lon": 9.935601,
+                "address": "Hauptstraße 54",
+                "post_code": "73540",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:668e8ed6aa513ecb0c8ef38f",
+                "name": "Muggensturm: Wolf-Eberstein-Halle",
+                "lat": 48.86786,
+                "lon": 8.28803,
+                "address": "Am Freizeitgelände 5",
+                "post_code": "76461",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6690e37e17ae9692ef66a688",
+                "name": "Ebenweiler: Rathaus",
+                "lat": 47.900192,
+                "lon": 9.512684,
+                "address": "Unterwaldhauser Str.  1",
+                "post_code": "88370",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6690e4844a670870572a0668",
+                "name": "Nürtingen: Enzenhardtplatz",
+                "lat": 48.612676,
+                "lon": 9.333043,
+                "address": "Enzenhardtplatz  3",
+                "post_code": "72622",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66978839d0623f3b27c28f5e",
+                "name": "Iffezheim: VR-Bank",
+                "lat": 48.822041,
+                "lon": 8.140322,
+                "address": "Hügelsheimerstraße 3",
+                "post_code": "76473",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:669789678e76b5cfe87ef7a1",
+                "name": "Enzklösterle: Friedhof",
+                "lat": 48.669397,
+                "lon": 8.472966,
+                "address": "Kirchweg 39",
+                "post_code": "75337",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66978a295b3577ed4172921c",
+                "name": "Fleischwangen: Kirchstraße",
+                "lat": 47.879076,
+                "lon": 9.478229,
+                "address": "kirchstraße  23",
+                "post_code": "88373",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66a21f25e7e7698c8bde0953",
+                "name": "Maierhöfen: Iberghalle",
+                "lat": 47.652967,
+                "lon": 10.055604,
+                "address": "Ibergweg 15",
+                "post_code": "88167",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66a2207cf017989f9dc5029c",
+                "name": "Öschelbronn (Gäufelden): Rathaus",
+                "lat": 48.552567,
+                "lon": 8.823535,
+                "address": "Jettinger Straße 16",
+                "post_code": "71126",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66a22128f017989f9dc507ce",
+                "name": "Deizisau: Karlstraße",
+                "lat": 48.713034,
+                "lon": 9.381878,
+                "address": "Karlstraße  10",
+                "post_code": "73779",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66a9d71fac7fd7455a49f9d0",
+                "name": "Amtzell: Postweg",
+                "lat": 47.705968,
+                "lon": 9.747252,
+                "address": "Postweg  2",
+                "post_code": "88279",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66a9d7acdefda2ad094a7a6b",
+                "name": "Kißlegg: Feuerwehr",
+                "lat": 47.789805,
+                "lon": 9.884234,
+                "address": "Parkstr. 6",
+                "post_code": "88353",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66a9d833549922698c0d56f6",
+                "name": "Argenbühl: Rathaus",
+                "lat": 47.688712,
+                "lon": 9.959087,
+                "address": "Jahnweg 7",
+                "post_code": "88260",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66a9d8f6fc47de74eb49fdee",
+                "name": "Leutkirch: Bahnhof",
+                "lat": 47.827315,
+                "lon": 10.01777,
+                "address": "Wurzacher Str. 5",
+                "post_code": "88299",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66a9d983b9e3e406b8a71a09",
+                "name": "Wangen: Bahnhof",
+                "lat": 47.689721,
+                "lon": 9.83178,
+                "address": "Bahnhofstr.  36",
+                "post_code": "88239",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66ab38aad9817b7fa07fb587",
+                "name": "Isny im Allgäu: Kirche",
+                "lat": 47.691474,
+                "lon": 10.041723,
+                "address": "Kemptener Str. 5",
+                "post_code": "88316",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66b33ca5c7666ea8d8aa6279",
+                "name": "Hergensweiler: altes Feuerwehrhaus",
+                "lat": 47.60984,
+                "lon": 9.776193,
+                "address": "Bahnhofstraße  5",
+                "post_code": "88138",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66bb0c038b0eb0e9e6fa4f4c",
+                "name": "Lichtenstein: Kirche",
+                "lat": 48.431554,
+                "lon": 9.255397,
+                "address": "Rathausplatz 4",
+                "post_code": "72805",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66bb0c871f7a708429e6592d",
+                "name": "Sinzheim: Bahnhof",
+                "lat": 48.760085,
+                "lon": 8.159527,
+                "address": "Hans-Thoma-Straße 44",
+                "post_code": "76547",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66bc679f161002f54e3264ec",
+                "name": "Aalen: Bahnhof",
+                "lat": 48.842317,
+                "lon": 10.095681,
+                "address": "Bahnhofstr.  48",
+                "post_code": "73430",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66c434d1f753df97eebe2e25",
+                "name": "Harxheim-Lörzweiler: Rathaus",
+                "lat": 49.904089,
+                "lon": 8.26876,
+                "address": "Bahnhofstraße 38",
+                "post_code": "55296",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66c43596874f5551a543128b",
+                "name": "Wahnwegen: Rathaus",
+                "lat": 49.485821,
+                "lon": 7.376295,
+                "address": "Auf den Stümpfen 4",
+                "post_code": "66909",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66c43669f753df97eebe3d90",
+                "name": "Henschtal: Halle",
+                "lat": 49.466038,
+                "lon": 7.409449,
+                "address": "Hauptstraße  20",
+                "post_code": "66909",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66c73ce3dbd11972607f8614",
+                "name": "Singen: Bahnhof",
+                "lat": 47.760036,
+                "lon": 8.842768,
+                "address": "Bahnhofstraße  29",
+                "post_code": "78224",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66c73d9549b9d4e839e242f5",
+                "name": "Singen: Ekkehardstraße",
+                "lat": 47.76101,
+                "lon": 8.835424,
+                "address": "Ekkehardstraße 4",
+                "post_code": "78224",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66c73f53bceec3df9b0f56bc",
+                "name": "Singen: Gewerbeschule",
+                "lat": 47.768072,
+                "lon": 8.835638,
+                "address": "Uhlandstraße 27",
+                "post_code": "78224",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66c7409a594de22d24d89de7",
+                "name": "Singen: Am Posthalterswäldle",
+                "lat": 47.771855,
+                "lon": 8.842719,
+                "address": "Am Posthalterswäldle 74",
+                "post_code": "78224",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66c74125594de22d24d8a2ad",
+                "name": "Singen: Stadtwerke",
+                "lat": 47.756075,
+                "lon": 8.860712,
+                "address": "Grubwaldstraße 1",
+                "post_code": "78224",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66c741c87d48680d0ef270b7",
+                "name": "Singen: Überlingerstraße",
+                "lat": 47.74394,
+                "lon": 8.854974,
+                "address": "Überlingerstraße 7",
+                "post_code": "78224",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66d058c80fcb9f1076c708b8",
+                "name": "Merklingen Bahnhof P&R",
+                "lat": 48.520683,
+                "lon": 9.740641,
+                "address": "Bahnhof Merklingen 0",
+                "post_code": "89188",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66d064943523c1bd7c4b7f22",
+                "name": "Frickingen: Kirchstraße",
+                "lat": 47.813645,
+                "lon": 9.272695,
+                "address": "Kirchstraße 13",
+                "post_code": "88699",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66df1111da03a53d53726896",
+                "name": "Neukirch: Rathaus",
+                "lat": 47.657294,
+                "lon": 9.702729,
+                "address": "Kirchstr. 9",
+                "post_code": "88099",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66df11807b64629943c7c50a",
+                "name": "Owingen: Mühlenstraße",
+                "lat": 47.808303,
+                "lon": 9.17006,
+                "address": "Mühlenstraße 8",
+                "post_code": "88696",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66df120a7b64629943c7c7b2",
+                "name": "Deggenhausertal: Rathaus",
+                "lat": 47.782142,
+                "lon": 9.389107,
+                "address": "Moorhofweg 2",
+                "post_code": "88693",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66e17e5df4b36ff5198f68a0",
+                "name": "Tannhausen: Rathaus",
+                "lat": 48.979234,
+                "lon": 10.364199,
+                "address": "In den Eichwiesen 2",
+                "post_code": "73497",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66e976c6bee77e41846763b9",
+                "name": "Maichingen: Elisabeth-Selbert-Straße",
+                "lat": 48.720777,
+                "lon": 8.976081,
+                "address": "Elisabeth-Selbert-Straße 20",
+                "post_code": "71069",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66e97cbab94d5605a3e2a103",
+                "name": "Gärtringen: Grabenstraße",
+                "lat": 48.636705,
+                "lon": 8.898199,
+                "address": "Grabenstraße 60",
+                "post_code": "71116",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66ea7f006d52310c33f6ba37",
+                "name": "Gärtringen: Vorstadt ",
+                "lat": 48.641008,
+                "lon": 8.895126,
+                "address": "Vorstadt 4",
+                "post_code": "71116",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66ea8166c62628612705cf1b",
+                "name": "Mengen: Viehmarktplatz",
+                "lat": 48.04648,
+                "lon": 9.330935,
+                "address": "Zeppelinstraße  68",
+                "post_code": "88512",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66ea8363b3cf7240036fdd1f",
+                "name": "Gärtringen: Schickhardtstraße",
+                "lat": 48.646686,
+                "lon": 8.900663,
+                "address": "Schickhardtstraße 32",
+                "post_code": "71116",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66ea8535b94d5605a3e7bba9",
+                "name": "Mengen: Bahnhof",
+                "lat": 48.053143,
+                "lon": 9.336767,
+                "address": "Riedlingerstraße 1",
+                "post_code": "88512",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66ea86356d52310c33f703ff",
+                "name": "Zimmern: Rathaus",
+                "lat": 48.169207,
+                "lon": 8.594695,
+                "address": "Rathausstraße 2",
+                "post_code": "78658",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66ed37b644525bddfcbcbce6",
+                "name": "Baienfurt: Feuerwehr",
+                "lat": 47.82869,
+                "lon": 9.65203,
+                "address": "Baindter Str. 4",
+                "post_code": "88255",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66ed38d17951aed3e8ccf615",
+                "name": "Berg: Ravensburgerstraße",
+                "lat": 47.810343,
+                "lon": 9.60362,
+                "address": "Ravensburger Str. 95",
+                "post_code": "88276",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66ed39c15043e6c8fbcd84f1",
+                "name": "Baindt: Feneberg",
+                "lat": 47.841751,
+                "lon": 9.660122,
+                "address": " Fischerstr. 2",
+                "post_code": "88255",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66f160b68d0d608ad547c7fd",
+                "name": "Wangen: Vinzenz-Areal",
+                "lat": 47.687343,
+                "lon": 9.820446,
+                "address": "Humbrechtser Str. 21",
+                "post_code": "88239",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66f6a8100bab36090aff8548",
+                "name": "Oftersheim: Uhlandstraße",
+                "lat": 49.373386,
+                "lon": 8.586765,
+                "address": "Uhlandstraße 9",
+                "post_code": "68723",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66f6a929016d511b1d5c7f5d",
+                "name": "Vogt: Allgäutorhalle",
+                "lat": 47.778132,
+                "lon": 9.764938,
+                "address": "Mozartstr. 31",
+                "post_code": "88267",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66f6aa0a016d511b1d5c85c6",
+                "name": "Horgenzell: Sporthalle",
+                "lat": 47.802925,
+                "lon": 9.49886,
+                "address": "Im Obstgarten 6",
+                "post_code": "88263",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:66f6ab3b99532952950b905b",
+                "name": "Bergatreute: Rathaus",
+                "lat": 47.84932,
+                "lon": 9.748636,
+                "address": "Ravensburger Str. 20",
+                "post_code": "88368",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6704f87eb5dde72f31b0708e",
+                "name": "Schlier: Dorfgemeinschaftshaus",
+                "lat": 47.799642,
+                "lon": 9.697848,
+                "address": "Laurentiusstr. 6",
+                "post_code": "88281",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:67064ed280ed7a5275f503dc",
+                "name": "Oberreichenbach-Würzbach: Feuerwehr",
+                "lat": 48.718444,
+                "lon": 8.632491,
+                "address": "Calwer Straße  2",
+                "post_code": "75394 ",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:670f84391fd77687323c2bd4",
+                "name": "Königsfeld im Schwarzwald: Rathaus",
+                "lat": 48.13999,
+                "lon": 8.418365,
+                "address": " Rathausstraße 5",
+                "post_code": " 78126",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:671f5099f3848f6d0f73c6a8",
+                "name": "Hailfingen: Rosengartenstraße",
+                "lat": 48.528148,
+                "lon": 8.868598,
+                "address": "Rosengartenstraße 2",
+                "post_code": "72108",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:671f53068d28b18ca1481e68",
+                "name": "Wangen: Siedlungswerk",
+                "lat": 47.677808,
+                "lon": 9.824726,
+                "address": "Schwester-Melania-Str. 1",
+                "post_code": "88239",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:671f54dd4458ff5dacfe005b",
+                "name": "Waldburg: Gemeinschaftsschule",
+                "lat": 47.75694,
+                "lon": 9.717571,
+                "address": "Amtzeller Str. 20",
+                "post_code": "88289",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:671f561ef7016ca90f183059",
+                "name": "Oberreute: Rathaus",
+                "lat": 47.562246,
+                "lon": 9.942536,
+                "address": "Hauptstr. 37",
+                "post_code": "88179",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:672c6b920b4e0bb0d6099fad",
+                "name": "Altenriet: Eugenstraße",
+                "lat": 48.592659,
+                "lon": 9.223203,
+                "address": "Eugenstraße 12",
+                "post_code": "40657",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:67319ac77469a7c88842d6ad",
+                "name": "Steinmauern",
+                "lat": 48.900882,
+                "lon": 8.198146,
+                "address": "Elchesheimer Str. 2",
+                "post_code": "76479",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:67322267ca0ad7f6671a1822",
+                "name": "Immenstaad am Bodensee: Rathaus",
+                "lat": 47.666534,
+                "lon": 9.36677,
+                "address": "Dr.-Zimmermann-Straße 1",
+                "post_code": "88090",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:674427ce810801d679414899",
+                "name": "Hergatz: Rathaus",
+                "lat": 47.6572,
+                "lon": 9.85136,
+                "address": "Salzstraße 18",
+                "post_code": "88145",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6746fc49d3bfe5a24ba1c00c",
+                "name": "Westhausen: Bahnhof",
+                "lat": 48.881425,
+                "lon": 10.184163,
+                "address": "Bahnhofstr. 15",
+                "post_code": "73463",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:674989a9061a948d79ca9a40",
+                "name": "Hochdorf: Dorfplatz",
+                "lat": 48.693754,
+                "lon": 9.466937,
+                "address": "Roßwälder Straße 3",
+                "post_code": "73269",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6752a924088c4d7c04d38d14",
+                "name": "Aitrach: Pfarrhof",
+                "lat": 47.939883,
+                "lon": 10.088302,
+                "address": "Hauptstraße 34",
+                "post_code": "88319",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:67569771adeb30daa81c7805",
+                "name": "Obermarchtal: Sportplatz",
+                "lat": 48.233823,
+                "lon": 9.567207,
+                "address": "Abt-Walter-Straße 4",
+                "post_code": "89611",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6756ac4cd95a471cbc5c1f90",
+                "name": "Owen: Bahnhof",
+                "lat": 48.585886,
+                "lon": 9.447959,
+                "address": "Eisenbahnstraße 14",
+                "post_code": "73277",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6760654cd4576670b59a0838",
+                "name": "Schwäbisch Gmünd: Fehrle-Gärten",
+                "lat": 48.792522,
+                "lon": 9.778688,
+                "address": "Schwerzerallee 57",
+                "post_code": "73525",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:677f8f872e47687c0d26fd53",
+                "name": "Fronreute: Rathaus",
+                "lat": 47.861168,
+                "lon": 9.51901,
+                "address": "Rathausstraße 2",
+                "post_code": "88273",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:677f9360c5cd05aa7225d5b3",
+                "name": "Stiefenhofen: Am Haldenacker",
+                "lat": 47.591889,
+                "lon": 10.002966,
+                "address": "Am Haldenacker 1",
+                "post_code": "88167",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            },
+            {
+                "station_id": "DER:Station:6784c4f85411d52590b0cf4e",
+                "name": "Aidlingen: Deufringen",
+                "lat": 48.681987,
+                "lon": 8.867224,
+                "address": "Gechinger Straße 32",
+                "post_code": "71134",
+                "rental_methods": [
+                    "key"
+                ],
+                "is_charging_station": true
+            }
+        ]
+    }
+}
