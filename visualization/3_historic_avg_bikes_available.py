@@ -3,6 +3,8 @@ import json
 import pandas as pd
 import folium
 
+#Analyse für Zeitraum: 21.06.2024 - 12.11.2024
+
 # Ordnerpfade
 data_folder = r"C:\Projekte\KNIME_Aufgabe\data"
 repaired_folder = r"C:\Projekte\KNIME_Aufgabe\repaired_files"
@@ -52,7 +54,7 @@ for file_name, file_path in file_dict.items():
 # DataFrame aus den Stationsdaten erstellen
 station_df = pd.DataFrame(station_data)
 
-# Durchschnitt der Fahrräder pro Station berechnen
+# Durchschnitt der Fahrzeuge pro Station berechnen
 avg_bikes_df = station_df.groupby("station_id")["num_bikes_available"].mean().reset_index()
 avg_bikes_df.rename(columns={"num_bikes_available": "avg_bikes_available"}, inplace=True)
 
@@ -67,7 +69,7 @@ bike_map = folium.Map(location=map_center, zoom_start=12)
 for _, row in merged_df.iterrows():
     popup_info = (
         f"<b>{row['name']}</b><br>"
-        f"Durchschnittlich verfügbare Fahrräder: {row['avg_bikes_available']:.2f}<br>"
+        f"Durchschnittlich verfügbare Fahrzeuge: {row['avg_bikes_available']:.2f}<br>"
         f"Station ID: {row['station_id']}"
     )
     # Farbskala basierend auf der durchschnittlichen Verfügbarkeit

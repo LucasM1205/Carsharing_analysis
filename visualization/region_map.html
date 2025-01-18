@@ -1,0 +1,661 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_0d6176f4dd3040140fa083c4e1786d9a {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_0d6176f4dd3040140fa083c4e1786d9a" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_0d6176f4dd3040140fa083c4e1786d9a = L.map(
+                "map_0d6176f4dd3040140fa083c4e1786d9a",
+                {
+                    center: [48.934767936916366, 9.120416868096013],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 10,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_0e03942ad18a091368da56fa7edde310 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_0e03942ad18a091368da56fa7edde310.addTo(map_0d6176f4dd3040140fa083c4e1786d9a);
+        
+    
+            var circle_marker_a731e98d5657edbb4983f5ded2b6bb28 = L.circleMarker(
+                [48.659312, 8.746295],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_0d6176f4dd3040140fa083c4e1786d9a);
+        
+    
+        var popup_bf93a8b2a80cd3778361d7a29a0ed132 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b79540cd29818dbdf04202d73973e7e2 = $(`<div id="html_b79540cd29818dbdf04202d73973e7e2" style="width: 100.0%; height: 100.0%;"><b>Region: 	7xxx</b><br>Durchschnittlich verfügbare Fahrzeuge: 0.00<br></div>`)[0];
+                popup_bf93a8b2a80cd3778361d7a29a0ed132.setContent(html_b79540cd29818dbdf04202d73973e7e2);
+            
+        
+
+        circle_marker_a731e98d5657edbb4983f5ded2b6bb28.bindPopup(popup_bf93a8b2a80cd3778361d7a29a0ed132)
+        ;
+
+        
+    
+    
+            var circle_marker_cdd985ae1f3830a43835b0a96820ccd3 = L.circleMarker(
+                [48.6020604, 8.674813],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_0d6176f4dd3040140fa083c4e1786d9a);
+        
+    
+        var popup_c1de193b90a1345fc547623e88c5a5be = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_fb876cd3e5ee73822c1b3d68fd46404d = $(`<div id="html_fb876cd3e5ee73822c1b3d68fd46404d" style="width: 100.0%; height: 100.0%;"><b>Region:  7xxx</b><br>Durchschnittlich verfügbare Fahrzeuge: 0.67<br></div>`)[0];
+                popup_c1de193b90a1345fc547623e88c5a5be.setContent(html_fb876cd3e5ee73822c1b3d68fd46404d);
+            
+        
+
+        circle_marker_cdd985ae1f3830a43835b0a96820ccd3.bindPopup(popup_c1de193b90a1345fc547623e88c5a5be)
+        ;
+
+        
+    
+    
+            var circle_marker_1d6b940ed3d20d9f6d5a0f1f4d2c4aa5 = L.circleMarker(
+                [49.199344, 10.645569],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_0d6176f4dd3040140fa083c4e1786d9a);
+        
+    
+        var popup_3fedb442b15453ec7594b41f274bec16 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5f571e88560a64e5d264b6f9645939b0 = $(`<div id="html_5f571e88560a64e5d264b6f9645939b0" style="width: 100.0%; height: 100.0%;"><b>Region:  9xxx</b><br>Durchschnittlich verfügbare Fahrzeuge: 1.00<br></div>`)[0];
+                popup_3fedb442b15453ec7594b41f274bec16.setContent(html_5f571e88560a64e5d264b6f9645939b0);
+            
+        
+
+        circle_marker_1d6b940ed3d20d9f6d5a0f1f4d2c4aa5.bindPopup(popup_3fedb442b15453ec7594b41f274bec16)
+        ;
+
+        
+    
+    
+            var circle_marker_fc620362f8f2df7e005d0384aa81b997 = L.circleMarker(
+                [48.592659, 9.223203],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_0d6176f4dd3040140fa083c4e1786d9a);
+        
+    
+        var popup_c0a88b0c54f683ce57575c6f170364b6 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d9da68e08e05b3f3db98be38cb64732a = $(`<div id="html_d9da68e08e05b3f3db98be38cb64732a" style="width: 100.0%; height: 100.0%;"><b>Region: 40xxx</b><br>Durchschnittlich verfügbare Fahrzeuge: 0.00<br></div>`)[0];
+                popup_c0a88b0c54f683ce57575c6f170364b6.setContent(html_d9da68e08e05b3f3db98be38cb64732a);
+            
+        
+
+        circle_marker_fc620362f8f2df7e005d0384aa81b997.bindPopup(popup_c0a88b0c54f683ce57575c6f170364b6)
+        ;
+
+        
+    
+    
+            var circle_marker_0e9ba0423055e78f6493f57405f62ce3 = L.circleMarker(
+                [49.8573172, 8.2436494],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_0d6176f4dd3040140fa083c4e1786d9a);
+        
+    
+        var popup_be62a10c7b920f6c86645486dc2e23e0 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5d4cd421dc86e970f64f27a19d067b61 = $(`<div id="html_5d4cd421dc86e970f64f27a19d067b61" style="width: 100.0%; height: 100.0%;"><b>Region: 55xxx</b><br>Durchschnittlich verfügbare Fahrzeuge: 0.20<br></div>`)[0];
+                popup_be62a10c7b920f6c86645486dc2e23e0.setContent(html_5d4cd421dc86e970f64f27a19d067b61);
+            
+        
+
+        circle_marker_0e9ba0423055e78f6493f57405f62ce3.bindPopup(popup_be62a10c7b920f6c86645486dc2e23e0)
+        ;
+
+        
+    
+    
+            var circle_marker_46149f314a8f3357eddaff329810e329 = L.circleMarker(
+                [50.05, 8.566],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_0d6176f4dd3040140fa083c4e1786d9a);
+        
+    
+        var popup_f99b5b6f8bfa7cc146950cd3f95acebc = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_210145d4d3678ce8ac18facf41218d01 = $(`<div id="html_210145d4d3678ce8ac18facf41218d01" style="width: 100.0%; height: 100.0%;"><b>Region: 60xxx</b><br>Durchschnittlich verfügbare Fahrzeuge: 2.00<br></div>`)[0];
+                popup_f99b5b6f8bfa7cc146950cd3f95acebc.setContent(html_210145d4d3678ce8ac18facf41218d01);
+            
+        
+
+        circle_marker_46149f314a8f3357eddaff329810e329.bindPopup(popup_f99b5b6f8bfa7cc146950cd3f95acebc)
+        ;
+
+        
+    
+    
+            var circle_marker_69ab73552952fa0a7faa29150a5c2548 = L.circleMarker(
+                [49.991875, 8.4103487],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_0d6176f4dd3040140fa083c4e1786d9a);
+        
+    
+        var popup_8475c90d8cd5c52e84e36f78f2e06b73 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_fc6cb0872c62fce830be774fa9610d46 = $(`<div id="html_fc6cb0872c62fce830be774fa9610d46" style="width: 100.0%; height: 100.0%;"><b>Region: 65xxx</b><br>Durchschnittlich verfügbare Fahrzeuge: 0.00<br></div>`)[0];
+                popup_8475c90d8cd5c52e84e36f78f2e06b73.setContent(html_fc6cb0872c62fce830be774fa9610d46);
+            
+        
+
+        circle_marker_69ab73552952fa0a7faa29150a5c2548.bindPopup(popup_8475c90d8cd5c52e84e36f78f2e06b73)
+        ;
+
+        
+    
+    
+            var circle_marker_993f39dedb57a16ac7be706effd3df4d = L.circleMarker(
+                [49.4759295, 7.3928720000000006],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_0d6176f4dd3040140fa083c4e1786d9a);
+        
+    
+        var popup_22b494c39d4b609c53f8fb1c87aff592 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0826b570e7bfd0ba0cbd93b0ec89d2e7 = $(`<div id="html_0826b570e7bfd0ba0cbd93b0ec89d2e7" style="width: 100.0%; height: 100.0%;"><b>Region: 66xxx</b><br>Durchschnittlich verfügbare Fahrzeuge: 1.00<br></div>`)[0];
+                popup_22b494c39d4b609c53f8fb1c87aff592.setContent(html_0826b570e7bfd0ba0cbd93b0ec89d2e7);
+            
+        
+
+        circle_marker_993f39dedb57a16ac7be706effd3df4d.bindPopup(popup_22b494c39d4b609c53f8fb1c87aff592)
+        ;
+
+        
+    
+    
+            var circle_marker_b778e0a924b482d36de9910382353416 = L.circleMarker(
+                [49.7528636, 8.3772178],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_0d6176f4dd3040140fa083c4e1786d9a);
+        
+    
+        var popup_ae470f2e3f3c62f60847f78b249de248 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0c35ea03f6c98d81f18c7792b961584e = $(`<div id="html_0c35ea03f6c98d81f18c7792b961584e" style="width: 100.0%; height: 100.0%;"><b>Region: 67xxx</b><br>Durchschnittlich verfügbare Fahrzeuge: 0.40<br></div>`)[0];
+                popup_ae470f2e3f3c62f60847f78b249de248.setContent(html_0c35ea03f6c98d81f18c7792b961584e);
+            
+        
+
+        circle_marker_b778e0a924b482d36de9910382353416.bindPopup(popup_ae470f2e3f3c62f60847f78b249de248)
+        ;
+
+        
+    
+    
+            var circle_marker_2c68a61d4af5c2e85262f1ce18df7d9e = L.circleMarker(
+                [49.310001, 8.534135000000001],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_0d6176f4dd3040140fa083c4e1786d9a);
+        
+    
+        var popup_4e3d1d360e9f65cd7738bf31a7af2c0f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3346933d243a098974861276ac36209f = $(`<div id="html_3346933d243a098974861276ac36209f" style="width: 100.0%; height: 100.0%;"><b>Region: 68xxx</b><br>Durchschnittlich verfügbare Fahrzeuge: 1.00<br></div>`)[0];
+                popup_4e3d1d360e9f65cd7738bf31a7af2c0f.setContent(html_3346933d243a098974861276ac36209f);
+            
+        
+
+        circle_marker_2c68a61d4af5c2e85262f1ce18df7d9e.bindPopup(popup_4e3d1d360e9f65cd7738bf31a7af2c0f)
+        ;
+
+        
+    
+    
+            var circle_marker_1eefd243e77937e371850d69030c80f8 = L.circleMarker(
+                [49.38037357142857, 8.751319142857144],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_0d6176f4dd3040140fa083c4e1786d9a);
+        
+    
+        var popup_9314ee9185f1d59f7919cc298a2787e0 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_98a4dc715c8a7e351fa2f53d3ca0e37b = $(`<div id="html_98a4dc715c8a7e351fa2f53d3ca0e37b" style="width: 100.0%; height: 100.0%;"><b>Region: 69xxx</b><br>Durchschnittlich verfügbare Fahrzeuge: 0.43<br></div>`)[0];
+                popup_9314ee9185f1d59f7919cc298a2787e0.setContent(html_98a4dc715c8a7e351fa2f53d3ca0e37b);
+            
+        
+
+        circle_marker_1eefd243e77937e371850d69030c80f8.bindPopup(popup_9314ee9185f1d59f7919cc298a2787e0)
+        ;
+
+        
+    
+    
+            var circle_marker_dd0b41fa20914188429fafcbbdf41a6a = L.circleMarker(
+                [48.76080255555556, 9.163869555555555],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_0d6176f4dd3040140fa083c4e1786d9a);
+        
+    
+        var popup_d1ad9296686a2ad1f62f754d0a6acf87 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_24a6ed867354a6c9e12079c9da17f872 = $(`<div id="html_24a6ed867354a6c9e12079c9da17f872" style="width: 100.0%; height: 100.0%;"><b>Region: 70xxx</b><br>Durchschnittlich verfügbare Fahrzeuge: 1.11<br></div>`)[0];
+                popup_d1ad9296686a2ad1f62f754d0a6acf87.setContent(html_24a6ed867354a6c9e12079c9da17f872);
+            
+        
+
+        circle_marker_dd0b41fa20914188429fafcbbdf41a6a.bindPopup(popup_d1ad9296686a2ad1f62f754d0a6acf87)
+        ;
+
+        
+    
+    
+            var circle_marker_caaf292770286b6aec65d23b75a67bea = L.circleMarker(
+                [48.75883185960937, 9.009190156404298],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_0d6176f4dd3040140fa083c4e1786d9a);
+        
+    
+        var popup_37884f4a3b69b8a77b3c7901d2381a27 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d7e53659fff9d72ee0a31a4287e4f85c = $(`<div id="html_d7e53659fff9d72ee0a31a4287e4f85c" style="width: 100.0%; height: 100.0%;"><b>Region: 71xxx</b><br>Durchschnittlich verfügbare Fahrzeuge: 0.48<br></div>`)[0];
+                popup_37884f4a3b69b8a77b3c7901d2381a27.setContent(html_d7e53659fff9d72ee0a31a4287e4f85c);
+            
+        
+
+        circle_marker_caaf292770286b6aec65d23b75a67bea.bindPopup(popup_37884f4a3b69b8a77b3c7901d2381a27)
+        ;
+
+        
+    
+    
+            var circle_marker_361fc521a2be30c5a18529c876cee6e4 = L.circleMarker(
+                [48.52664371438823, 8.98642214877068],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_0d6176f4dd3040140fa083c4e1786d9a);
+        
+    
+        var popup_2f82475a97fefbeeaad44a2044c46e94 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_50210b31b438f52ac09f527db8aa63ce = $(`<div id="html_50210b31b438f52ac09f527db8aa63ce" style="width: 100.0%; height: 100.0%;"><b>Region: 72xxx</b><br>Durchschnittlich verfügbare Fahrzeuge: 0.62<br></div>`)[0];
+                popup_2f82475a97fefbeeaad44a2044c46e94.setContent(html_50210b31b438f52ac09f527db8aa63ce);
+            
+        
+
+        circle_marker_361fc521a2be30c5a18529c876cee6e4.bindPopup(popup_2f82475a97fefbeeaad44a2044c46e94)
+        ;
+
+        
+    
+    
+            var circle_marker_dcf0dab64fa2c5d375e2ef4ac9ede3dd = L.circleMarker(
+                [48.71047706430372, 9.713264210941894],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_0d6176f4dd3040140fa083c4e1786d9a);
+        
+    
+        var popup_37acac3485ce21ce63fbced474105202 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2f56d06861c560ef8750c5d27b81d9a7 = $(`<div id="html_2f56d06861c560ef8750c5d27b81d9a7" style="width: 100.0%; height: 100.0%;"><b>Region: 73xxx</b><br>Durchschnittlich verfügbare Fahrzeuge: 0.82<br></div>`)[0];
+                popup_37acac3485ce21ce63fbced474105202.setContent(html_2f56d06861c560ef8750c5d27b81d9a7);
+            
+        
+
+        circle_marker_dcf0dab64fa2c5d375e2ef4ac9ede3dd.bindPopup(popup_37acac3485ce21ce63fbced474105202)
+        ;
+
+        
+    
+    
+            var circle_marker_d63beec2f6f70e8eba0ad3d8a58f878d = L.circleMarker(
+                [49.213752428571425, 9.174633214285715],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_0d6176f4dd3040140fa083c4e1786d9a);
+        
+    
+        var popup_3f7a1ee640ac4ca0eaf1d05046eb3e96 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6af222e0ff46f6e56f9971c2732726f7 = $(`<div id="html_6af222e0ff46f6e56f9971c2732726f7" style="width: 100.0%; height: 100.0%;"><b>Region: 74xxx</b><br>Durchschnittlich verfügbare Fahrzeuge: 0.71<br></div>`)[0];
+                popup_3f7a1ee640ac4ca0eaf1d05046eb3e96.setContent(html_6af222e0ff46f6e56f9971c2732726f7);
+            
+        
+
+        circle_marker_d63beec2f6f70e8eba0ad3d8a58f878d.bindPopup(popup_3f7a1ee640ac4ca0eaf1d05046eb3e96)
+        ;
+
+        
+    
+    
+            var circle_marker_5f9aefe146136699d325c28e72772ec9 = L.circleMarker(
+                [48.81819740740741, 8.70793998765432],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_0d6176f4dd3040140fa083c4e1786d9a);
+        
+    
+        var popup_7a5cca18b01cfb500f8f75c89cc666fa = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_fe9f501aef8725513c71b4d7415348cc = $(`<div id="html_fe9f501aef8725513c71b4d7415348cc" style="width: 100.0%; height: 100.0%;"><b>Region: 75xxx</b><br>Durchschnittlich verfügbare Fahrzeuge: 0.51<br></div>`)[0];
+                popup_7a5cca18b01cfb500f8f75c89cc666fa.setContent(html_fe9f501aef8725513c71b4d7415348cc);
+            
+        
+
+        circle_marker_5f9aefe146136699d325c28e72772ec9.bindPopup(popup_7a5cca18b01cfb500f8f75c89cc666fa)
+        ;
+
+        
+    
+    
+            var circle_marker_ea987c63145d136a849b8ae9595db661 = L.circleMarker(
+                [48.9131036, 8.27890365],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_0d6176f4dd3040140fa083c4e1786d9a);
+        
+    
+        var popup_b388966df66d03e8ecc13d2291005858 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_fb159cd9bf028e28d26fec0f82439231 = $(`<div id="html_fb159cd9bf028e28d26fec0f82439231" style="width: 100.0%; height: 100.0%;"><b>Region: 76xxx</b><br>Durchschnittlich verfügbare Fahrzeuge: 0.55<br></div>`)[0];
+                popup_b388966df66d03e8ecc13d2291005858.setContent(html_fb159cd9bf028e28d26fec0f82439231);
+            
+        
+
+        circle_marker_ea987c63145d136a849b8ae9595db661.bindPopup(popup_b388966df66d03e8ecc13d2291005858)
+        ;
+
+        
+    
+    
+            var circle_marker_549f81d41b43bc5a2f28dda36b9aa3c5 = L.circleMarker(
+                [48.60930283333334, 8.156782833333333],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_0d6176f4dd3040140fa083c4e1786d9a);
+        
+    
+        var popup_37354d8e8bdc6182f28bfba50340b456 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_420649da879c8c5b38a8e779fd81b809 = $(`<div id="html_420649da879c8c5b38a8e779fd81b809" style="width: 100.0%; height: 100.0%;"><b>Region: 77xxx</b><br>Durchschnittlich verfügbare Fahrzeuge: 1.17<br></div>`)[0];
+                popup_37354d8e8bdc6182f28bfba50340b456.setContent(html_420649da879c8c5b38a8e779fd81b809);
+            
+        
+
+        circle_marker_549f81d41b43bc5a2f28dda36b9aa3c5.bindPopup(popup_37354d8e8bdc6182f28bfba50340b456)
+        ;
+
+        
+    
+    
+            var circle_marker_8b9d84443ff26159a0bc87c8b3ddc58b = L.circleMarker(
+                [47.874750750000004, 8.7581525],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_0d6176f4dd3040140fa083c4e1786d9a);
+        
+    
+        var popup_b3e63c5dc1e06f7e836faf6d36a80ebe = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e504932b3fed504a32770975a1bfea73 = $(`<div id="html_e504932b3fed504a32770975a1bfea73" style="width: 100.0%; height: 100.0%;"><b>Region: 78xxx</b><br>Durchschnittlich verfügbare Fahrzeuge: 0.62<br></div>`)[0];
+                popup_b3e63c5dc1e06f7e836faf6d36a80ebe.setContent(html_e504932b3fed504a32770975a1bfea73);
+            
+        
+
+        circle_marker_8b9d84443ff26159a0bc87c8b3ddc58b.bindPopup(popup_b3e63c5dc1e06f7e836faf6d36a80ebe)
+        ;
+
+        
+    
+    
+            var circle_marker_84f920841aa13a81eb5f8a37bf651408 = L.circleMarker(
+                [48.195156, 11.608098],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_0d6176f4dd3040140fa083c4e1786d9a);
+        
+    
+        var popup_f374fc0d1d3c3e9297d3afa955efb9d1 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_132bbfd0d55a030a411c9b3db8824460 = $(`<div id="html_132bbfd0d55a030a411c9b3db8824460" style="width: 100.0%; height: 100.0%;"><b>Region: 80xxx</b><br>Durchschnittlich verfügbare Fahrzeuge: 0.00<br></div>`)[0];
+                popup_f374fc0d1d3c3e9297d3afa955efb9d1.setContent(html_132bbfd0d55a030a411c9b3db8824460);
+            
+        
+
+        circle_marker_84f920841aa13a81eb5f8a37bf651408.bindPopup(popup_f374fc0d1d3c3e9297d3afa955efb9d1)
+        ;
+
+        
+    
+    
+            var circle_marker_5778b6adfe237e57703051401473c276 = L.circleMarker(
+                [48.719961, 10.778277],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_0d6176f4dd3040140fa083c4e1786d9a);
+        
+    
+        var popup_5968f3c7ca93556a8bd317daa596303c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_443b9782305614606112e00dcaf90c52 = $(`<div id="html_443b9782305614606112e00dcaf90c52" style="width: 100.0%; height: 100.0%;"><b>Region: 86xxx</b><br>Durchschnittlich verfügbare Fahrzeuge: 1.00<br></div>`)[0];
+                popup_5968f3c7ca93556a8bd317daa596303c.setContent(html_443b9782305614606112e00dcaf90c52);
+            
+        
+
+        circle_marker_5778b6adfe237e57703051401473c276.bindPopup(popup_5968f3c7ca93556a8bd317daa596303c)
+        ;
+
+        
+    
+    
+            var circle_marker_c2b2de7be2ebe33080e5de5db42d0084 = L.circleMarker(
+                [47.805637795454544, 9.729011045454545],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_0d6176f4dd3040140fa083c4e1786d9a);
+        
+    
+        var popup_3c7e42b4b523753e02ec0ea148fb7814 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_67113f3caff7d28bf97065bc0769b4b9 = $(`<div id="html_67113f3caff7d28bf97065bc0769b4b9" style="width: 100.0%; height: 100.0%;"><b>Region: 88xxx</b><br>Durchschnittlich verfügbare Fahrzeuge: 0.75<br></div>`)[0];
+                popup_3c7e42b4b523753e02ec0ea148fb7814.setContent(html_67113f3caff7d28bf97065bc0769b4b9);
+            
+        
+
+        circle_marker_c2b2de7be2ebe33080e5de5db42d0084.bindPopup(popup_3c7e42b4b523753e02ec0ea148fb7814)
+        ;
+
+        
+    
+    
+            var circle_marker_bd984d9ad1d9a718213a83acc5324d33 = L.circleMarker(
+                [48.386721, 9.6978005],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_0d6176f4dd3040140fa083c4e1786d9a);
+        
+    
+        var popup_6c4d2e0d8239768cddffdebda3d9a37c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0be752df9308caf49a380cb1be1169f5 = $(`<div id="html_0be752df9308caf49a380cb1be1169f5" style="width: 100.0%; height: 100.0%;"><b>Region: 89xxx</b><br>Durchschnittlich verfügbare Fahrzeuge: 1.00<br></div>`)[0];
+                popup_6c4d2e0d8239768cddffdebda3d9a37c.setContent(html_0be752df9308caf49a380cb1be1169f5);
+            
+        
+
+        circle_marker_bd984d9ad1d9a718213a83acc5324d33.bindPopup(popup_6c4d2e0d8239768cddffdebda3d9a37c)
+        ;
+
+        
+    
+    
+            var circle_marker_13903ee561eb7ea318f6f9f74b10e21f = L.circleMarker(
+                [49.204125142857144, 10.682654857142856],
+                {"bubblingMouseEvents": true, "color": "yellow", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "yellow", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_0d6176f4dd3040140fa083c4e1786d9a);
+        
+    
+        var popup_2d1288ba59d6e4f8221c2df96cd8b11a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4f974c8d10bfa2f3eb74da591c844c23 = $(`<div id="html_4f974c8d10bfa2f3eb74da591c844c23" style="width: 100.0%; height: 100.0%;"><b>Region: 91xxx</b><br>Durchschnittlich verfügbare Fahrzeuge: 1.00<br></div>`)[0];
+                popup_2d1288ba59d6e4f8221c2df96cd8b11a.setContent(html_4f974c8d10bfa2f3eb74da591c844c23);
+            
+        
+
+        circle_marker_13903ee561eb7ea318f6f9f74b10e21f.bindPopup(popup_2d1288ba59d6e4f8221c2df96cd8b11a)
+        ;
+
+        
+    
+</script>
+</html>

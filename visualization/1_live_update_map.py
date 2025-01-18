@@ -41,7 +41,7 @@ def update_map():
             for _, row in merged_df.iterrows():
                 popup_info = (
                     f"<b>{row['name']}</b><br>"
-                    f"Bikes verfügbar: {row['num_bikes_available']}<br>"
+                    f"Fahrzeuge verfügbar: {row['num_bikes_available']}<br>"
                     f"Station ID: {row['station_id']}"
                 )
                 marker_color = "blue" if row["num_bikes_available"] > 0 else "red"
@@ -85,7 +85,6 @@ def update_map():
             map.save(output_file)
 
             # Hinweis auf den Query-Parameter in der URL hinzufügen
-            print(f"Karte wurde aktualisiert. Öffne die Karte mit folgendem Query-Parameter im Browser:")
             print(f"file://{output_file}?v={last_updated}")
         else:
             print(f"Fehler beim Abrufen der Live-Daten: {response.status_code}")
