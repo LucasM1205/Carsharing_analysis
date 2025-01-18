@@ -3,7 +3,7 @@ import json
 import pandas as pd
 import folium
 
-#Analyse für Zeitraum: 21.06.2024 - 12.11.2024
+# Analyse für Zeitraum: 21.06.2024 - 12.11.2024
 
 # Ordnerpfade
 data_folder = r"C:\Projekte\KNIME_Aufgabe\data"
@@ -84,20 +84,27 @@ for _, row in merged_df.iterrows():
         fill_opacity=0.5,
     ).add_to(top_5_map)
 
-# Marker für die Top 5 Stationen hervorheben
+# Marker für die Top 5 Stationen hervorheben (mit Platzierung als Icon)
 for rank, (_, row) in enumerate(top_5_stations.iterrows(), start=1):
     popup_info = (
         f"<b>{row['name']} (Platz {rank})</b><br>"
-        f"Durchschnittlich verfügbare Fahrräder: {row['avg_bikes_available']:.2f}<br>"
+        f"Durchschnittlich verfügbare Fahrzeuge: {row['avg_bikes_available']:.2f}<br>"
         f"Station ID: {row['station_id']}"
     )
     folium.Marker(
         location=[row["lat"], row["lon"]],
         popup=popup_info,
-        icon=folium.Icon(color="blue", icon="star"),
+        icon=folium.DivIcon(
+            html=f"""
+                <div style="font-size:12px; font-weight:bold; color:white; text-align:center;
+                            background-color:blue; border-radius:50%; width:20px; height:20px; line-height:20px;">
+                    {rank}
+                </div>
+            """
+        ),
     ).add_to(top_5_map)
 
 # Karte speichern
-output_file = r"C:\Projekte\KNIME_Aufgabe\visualization\top_5_stations_map.html"
+output_file = r"C:\Projekte\KNIME_Aufgabe\visualization\top_5_stations_map_with_rank.html"
 top_5_map.save(output_file)
 print(f"Karte wurde gespeichert unter: {output_file}")
